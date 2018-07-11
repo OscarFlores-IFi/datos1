@@ -1,0 +1,882 @@
+ubicación,precio,tamaño,habitaciones,baños,estacionamientos,link
+ El Origen,2450000,102,3 ,4.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-el+origen-tlajomulco+de+zuniga-jalisco-45645-2229185
+ Santa Anita Camino Real,655000,67,2 ,1.0  , 1.0  ,http://www.casasyterrenos.com/detalle-casa/venta-santa+anita+camino+real-tlaquepaque-jalisco-45640-2076431
+ El Manantial,10300000,432,4 ,4.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-el+manantial-tlajomulco+de+zuniga-jalisco-45640-2174235
+ La Tijera,2350000,116,3 ,2.5  , 3.0  ,http://www.casasyterrenos.com/detalle-casa/venta-la+tijera-tlajomulco+de+zuniga-jalisco-45620-1995378
+ Altea,1930000,102,3 ,2.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-altea-tlajomulco+de+zuniga-jalisco-45645-1995532
+ Bosques De Santa Anita,1870000,102,3 ,2.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-bosques+de+santa+anita-tlajomulco+de+zuniga-jalisco-45640-1747244
+ Parques Del Bosque,1570000,105,2 ,2.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-parques+del+bosque-tlaquepaque-jalisco-45609-1913866
+ Las Terrazas,860000,69,2 ,1.5  , 1.0  ,http://www.casasyterrenos.com/detalle-casa/venta-las+terrazas-tlaquepaque-jalisco-45610-2219287
+ Lomas Del Sur,320000,50,3 ,1.0  , 1.0  ,http://www.casasyterrenos.com/detalle-casa/venta-lomas+del+sur-tlajomulco+de+zuniga-jalisco-45640-2215521
+ Haciend Real,1090000,99,3 ,2.5  ,0,http://www.casasyterrenos.com/detalle-casa/venta-haciend+real-tonala-jalisco-2247518
+ Residencial Jardines Del Eden,590000,68,2 ,2.0  ,0,http://www.casasyterrenos.com/detalle-casa/venta-residencial+jardines+del+eden-tlajomulco+de+zuniga-jalisco-45640-2247504
+ Santa Fe,350000,80,2 ,1.0  , 1.0  ,http://www.casasyterrenos.com/detalle-casa/venta-santa+fe-tlajomulco+de+zuniga-jalisco-45640-2192743
+ Punto Sur,4600000,145,3 ,4.0  , 4.0  ,http://www.casasyterrenos.com/detalle-casa/venta-punto+sur-tlajomulco+de+zuniga-jalisco-45645-1943831
+ Fraccionamiento La Rioja,4350000,160,3 ,4.0  , 3.0  ,http://www.casasyterrenos.com/detalle-casa/venta-fraccionamiento+la+rioja-tlajomulco+de+zuniga-jalisco-2238124
+ Bugambilias,4690000,300,3 ,3.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-bugambilias-zapopan-jalisco-1444941
+ Bugambilias,7450000,104,4 ,4.0  , 4.0  ,http://www.casasyterrenos.com/detalle-casa/venta-bugambilias-zapopan-jalisco-2003890
+ Geo Villas Los Olivos I,1300000,82,3 ,2.5  , 1.0  ,http://www.casasyterrenos.com/detalle-casa/venta-geo+villas+los+olivos+i-tlaquepaque-jalisco-45610-1999193
+ Lomas De Santa Anita,4700000,300,3 ,3.0  , 6.0  ,http://www.casasyterrenos.com/detalle-casa/venta-lomas+de+santa+anita-tlajomulco+de+zuniga-jalisco-45640-1859558
+ Nueva Galicia,2300000,146,3 ,3.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-nueva+galicia-tlajomulco+de+zuniga-jalisco-45640-1801603
+ Nueva Galicia Residencial,3400000,198,3 ,3.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-nueva+galicia+residencial-tlajomulco+de+zuniga-jalisco-45645-2247406
+ Nueva Galicia,3150000,119,4 ,2.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-nueva+galicia-tlajomulco+de+zuniga-jalisco-45640-2157982
+ Casa Fuerte,1890000,143,4 ,2.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-casa+fuerte-tlajomulco+de+zuniga-jalisco-45645-1289529
+ El Campanario,1650000,122,4 ,2.5  , 1.0  ,http://www.casasyterrenos.com/detalle-casa/venta-el+campanario-zapopan-jalisco-45609-2227785
+ Los Sauces,5100000,1500,6 ,6.5  , 12.0  ,http://www.casasyterrenos.com/detalle-casa/venta-los+sauces-tlajomulco+de+zuniga-jalisco-45640-474974
+ Parques Del Bosque,1710000,81,4 ,3.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-parques+del+bosque-tlaquepaque-jalisco-45610-2072693
+ Buenavista,1995000,1747,3 ,2.0  , 1.0  ,http://www.casasyterrenos.com/detalle-casa/venta-buenavista-ixtlahuacan+de+los+membrillos-jalisco-45850-2247364
+ Fraccionamiento Sendero Las Moras,2590000,147,4 ,3.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-fraccionamiento+sendero+las+moras-tlajomulco+de+zuniga-jalisco-2247315
+ El Origen,2090000,102,3 ,2.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-el+origen-tlajomulco+de+zuniga-jalisco-45645-1742959
+ Del Pilar Residencial,3800000,170,3 ,4.0  , 3.0  ,http://www.casasyterrenos.com/detalle-casa/venta-del+pilar+residencial-tlajomulco+de+zuniga-jalisco-45640-1223006
+ Real Del Valle,790000,72,3 ,3.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-real+del+valle-tlajomulco+de+zuniga-jalisco-45640-1244221
+ El Manantial,6350000,280,3 ,4.0  , 3.0  ,http://www.casasyterrenos.com/detalle-casa/venta-el+manantial-tlajomulco+de+zuniga-jalisco-45640-1385079
+ El Manantial,6350000,280,3 ,5.0  , 3.0  ,http://www.casasyterrenos.com/detalle-casa/venta-el+manantial-tlajomulco+de+zuniga-jalisco-45640-1386024
+ Del Pilar Residencial,3600000,170,4 ,3.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-del+pilar+residencial-tlajomulco+de+zuniga-jalisco-45640-1502753
+ Del Pilar Residencial,3600000,170,4 ,3.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-del+pilar+residencial-tlajomulco+de+zuniga-jalisco-45640-1502788
+ Club De Golf Santa Anita,9990000,1080,3 ,4.5  , 4.0  ,http://www.casasyterrenos.com/detalle-casa/venta-club+de+golf+santa+anita-tlajomulco+de+zuniga-jalisco-45640-1635807
+ La Rioja,4980000,255,3 ,4.0  , 3.0  ,http://www.casasyterrenos.com/detalle-casa/venta-la+rioja-tlajomulco+de+zuniga-jalisco-45640-1850338
+ San Martin Del Tajo,4950000,300,3 ,3.0  , 3.0  ,http://www.casasyterrenos.com/detalle-casa/venta-san+martin+del+tajo-tlajomulco+de+zuniga-jalisco-45640-1857923
+ Club De Golf Santa Anita,9950000,1119,4 ,5.0  , 9.0  ,http://www.casasyterrenos.com/detalle-casa/venta-club+de+golf+santa+anita-tlajomulco+de+zuniga-jalisco-45640-1894648
+ Del Pilar Residencial,3800000,157,3 ,4.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-del+pilar+residencial-tlajomulco+de+zuniga-jalisco-45640-1982352
+ El Manantial,6490000,277,4 ,4.0  , 4.0  ,http://www.casasyterrenos.com/detalle-casa/venta-el+manantial-tlajomulco+de+zuniga-jalisco-45640-1982576
+ Club De Golf Santa Anita,23000000,810,3 ,4.5  , 6.0  ,http://www.casasyterrenos.com/detalle-casa/venta-club+de+golf+santa+anita-tlajomulco+de+zuniga-jalisco-45640-2072000
+ Del Pilar Residencial,2950000,144,3 ,3.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-del+pilar+residencial-tlajomulco+de+zuniga-jalisco-45640-2096080
+ Del Pilar Residencial,3200000,164,3 ,3.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-del+pilar+residencial-tlajomulco+de+zuniga-jalisco-45640-2098537
+ Nueva Galicia Residencial,3490000,140,3 ,3.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-nueva+galicia+residencial-tlajomulco+de+zuniga-jalisco-45645-2102198
+ Altea,2350000,120,3 ,3.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-altea-tlajomulco+de+zuniga-jalisco-45645-2105558
+ Altea,2350000,120,3 ,3.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-altea-tlajomulco+de+zuniga-jalisco-45645-2102856
+ El Manantial,6350000,290,3 ,3.5  , 4.0  ,http://www.casasyterrenos.com/detalle-casa/venta-el+manantial-tlajomulco+de+zuniga-jalisco-45640-2111173
+ El Origen,2200000,102,3 ,3.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-el+origen-tlajomulco+de+zuniga-jalisco-45645-2128470
+ Nueva Galicia Residencial,3675000,188,3 ,3.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-nueva+galicia+residencial-tlajomulco+de+zuniga-jalisco-45645-2134987
+ Del Pilar Residencial,3800000,163,3 ,4.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-del+pilar+residencial-tlajomulco+de+zuniga-jalisco-45640-2158297
+ Parques Del Bosque,1590000,80,4 ,3.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-parques+del+bosque-tlaquepaque-jalisco-45609-2215878
+ Villa Fontana,869000,142,3 ,1.0  , 4.0  ,http://www.casasyterrenos.com/detalle-casa/venta-villa+fontana-tlaquepaque-jalisco-45615-2025576
+ Geovillas La Arbolada,800000,93,4 ,2.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-geovillas+la+arbolada-tlajomulco+de+zuniga-jalisco-45653-1617192
+ Lago Nogal,7700000,522,4 ,5.5  , 4.0  ,http://www.casasyterrenos.com/detalle-casa/venta-lago+nogal-tlajomulco+de+zuniga-jalisco-45640-1113219
+ Lago Nogal,7700000,522,4 ,6.5  , 4.0  ,http://www.casasyterrenos.com/detalle-casa/venta-lago+nogal-tlajomulco+de+zuniga-jalisco-45640-1643578
+ Las Luces,595000,75,3 ,2.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-las+luces-tlajomulco+de+zuniga-jalisco-45640-1966657
+ Nueva Galicia,2425000,107,3 ,2.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-nueva+galicia-tlajomulco+de+zuniga-jalisco-45640-1811758
+ Nueva Galicia,2640000,107,3 ,2.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-nueva+galicia-tlajomulco+de+zuniga-jalisco-45640-1811813
+ Nueva Galicia,2795000,107,3 ,2.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-nueva+galicia-tlajomulco+de+zuniga-jalisco-45640-1817493
+ Real Del Valle,680000,70,3 ,2.0  , 1.0  ,http://www.casasyterrenos.com/detalle-casa/venta-real+del+valle-tlajomulco+de+zuniga-jalisco-45640-2062921
+ El Campanario,950000,60,2 ,1.5  , 1.0  ,http://www.casasyterrenos.com/detalle-casa/venta-el+campanario-zapopan-jalisco-2043405
+ Nueva Galicia,2650000,127,3 ,2.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-fraccionamiento+nueva+galicia+residencia-tlajomulco+de+zuniga-jalisco-20710-2067506
+ Los Gavilanes,12500000,1200,3 ,4.0  , 3.0  ,http://www.casasyterrenos.com/detalle-casa/venta-los+gavilanes-tlajomulco+de+zuniga-jalisco-45640-2244914
+ Del Pilar Residencial,3300000,222,3 ,3.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-del+pilar+residencial-tlajomulco+de+zuniga-jalisco-45640-1687758
+ La Alameda,448000,60,2 ,1.0  , 1.0  ,http://www.casasyterrenos.com/detalle-casa/venta-la+alameda-el+salto-jalisco-45694-2067856
+ La Alameda,493600,67,3 ,1.5  ,0,http://www.casasyterrenos.com/detalle-casa/venta-la+alameda-el+salto-jalisco-45694-2067870
+ Villas De La Hacienda,830000,90,3 ,1.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-villas+de+la+hacienda-tlajomulco+de+zuniga-jalisco-45684-2067940
+ Parques Del Bosque,1800000,88,4 ,3.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-parques+del+bosque-tlaquepaque-jalisco-45610-2101883
+ Vicente Guerrero,1250000,300,4 ,2.0  ,0,http://www.casasyterrenos.com/detalle-casa/venta-vicente+guerrero-zapopan-jalisco-45160-2111712
+ Geo Villas Los Olivos I,1100000,157,3 ,2.5  , 1.0  ,http://www.casasyterrenos.com/detalle-casa/venta-geo+villas+los+olivos+i-tlaquepaque-jalisco-45610-193130
+ Parques Del Bosque,1800000,88,4 ,3.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-parques+del+bosque-tlaquepaque-jalisco-45610-2101883
+ Vicente Guerrero,1250000,300,4 ,2.0  ,0,http://www.casasyterrenos.com/detalle-casa/venta-vicente+guerrero-zapopan-jalisco-45160-2111712
+ Geo Villas Los Olivos I,1100000,157,3 ,2.5  , 1.0  ,http://www.casasyterrenos.com/detalle-casa/venta-geo+villas+los+olivos+i-tlaquepaque-jalisco-45610-193130
+ Bosques De Santa Anita,2950000,220,3 ,3.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-bosques+de+santa+anita-tlajomulco+de+zuniga-jalisco-45640-1288944
+ Altea,1930000,102,3 ,2.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-altea-tlajomulco+de+zuniga-jalisco-45645-1956013
+ El Palomar,4360000,311,3 ,3.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-el+palomar-tlajomulco+de+zuniga-jalisco-45640-2244634
+ Parques De Santa Cruz Del Valle,890000,80,3 ,2.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-parques+de+santa+cruz+del+valle-tlaquepaque-jalisco-1894118
+ Parques De Santa Maria,1100000,80,5 ,3.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-parques+de+santa+maria-tlaquepaque-jalisco-45601-1776893
+ Bosques De La Esperanza,430000,180,1 ,1.0  ,0,http://www.casasyterrenos.com/detalle-casa/venta-bosques+de+la+esperanza-tlajomulco+de+zuniga-jalisco-45640-1481501
+ Punto Sur,3600000,128,3 ,3.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-punto+sur-tlajomulco+de+zuniga-jalisco-45645-1696234
+ Balcones De Santa Anita,580000,80,3 ,1.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-balcones+de+santa+anita-tlajomulco+de+zuniga-jalisco-2244599
+ El Alcázar (casa Fuerte),2590000,140,3 ,3.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-el+alcazar+(casa+fuerte)-tlajomulco+de+zuniga-jalisco-2137626
+ Agua Blanca Industrial,1245000,106,2 ,2.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-agua+blanca+industrial-zapopan-jalisco-2137472
+ Villa California,1650000,140,3 ,1.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-villa+california-tlajomulco+de+zuniga-jalisco-45640-2243689
+ Colonia Tlajomulco Centro,1680000,120,3 ,3.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-tlajomulco+centro-tlajomulco+de+zuniga-jalisco-2168804
+ Los Cajetes,1380000,289,1 ,1.0  ,0,http://www.casasyterrenos.com/detalle-casa/venta-los+cajetes-zapopan-jalisco-2109276
+ Hacienda Mirage,4850000,1012,4 ,2.0  , 8.0  ,http://www.casasyterrenos.com/detalle-casa/venta-hacienda+mirage-tlajomulco+de+zuniga-jalisco-2187899
+ Fraccionamiento Hacienda Santa Fe,580000,71,2 ,1.0  ,0,http://www.casasyterrenos.com/detalle-casa/venta-fraccionamiento+hacienda+santa+fe-tlajomulco+de+zuniga-jalisco-2041725
+ Colonia Los Gavilanes Poniente,3350000,140,3 ,2.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-colonia+los+gavilanes+poniente-tlajomulco+de+zuniga-jalisco-2041578
+ Colonia Los Gavilanes Poniente,3250000,151,3 ,3.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-colonia+los+gavilanes+poniente-tlajomulco+de+zuniga-jalisco-2041571
+ Fraccionamiento Bugambilias,6800000,400,4 ,4.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-fraccionamiento+bugambilias-zapopan-jalisco-2041564
+ Fraccionamiento La Rioja,4600000,253,3 ,4.0  , 3.0  ,http://www.casasyterrenos.com/detalle-casa/venta-fraccionamiento+la+rioja-tlajomulco+de+zuniga-jalisco-2041403
+ Colonia Santa Cruz De La Loma,5295000,1012,4 ,4.0  , 4.0  ,http://www.casasyterrenos.com/detalle-casa/venta-colonia+santa+cruz+de+la+loma-tlajomulco+de+zuniga-jalisco-2041354
+ Colonia El Campanario,7450000,1215,5 ,3.0  , 4.0  ,http://www.casasyterrenos.com/detalle-casa/venta-colonia+el+campanario-zapopan-jalisco-2041340
+ Fraccionamiento Senderos Monte Verde,2520000,150,3 ,3.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-fraccionamiento+senderos+monte+verde-tlajomulco+de+zuniga-jalisco-2041312
+ Colonia Los Gavilanes Poniente,3550000,130,3 ,2.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-colonia+los+gavilanes+poniente-tlajomulco+de+zuniga-jalisco-2040738
+ Colonia Los Gavilanes Poniente,3650000,130,3 ,2.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-colonia+los+gavilanes+poniente-tlajomulco+de+zuniga-jalisco-2040731
+ Arroyo Seco,1300000,99,3 ,1.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-arroyo+seco-tlaquepaque-jalisco-45601-2231250
+ Paseo De Los Agaves,450000,54,2 ,2.0  , 1.0  ,http://www.casasyterrenos.com/detalle-casa/venta-paseo+de+los+agaves-tlajomulco+de+zuniga-jalisco-45640-2051847
+ Villa California,2190000,140,3 ,2.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-villa+california-tlajomulco+de+zuniga-jalisco-45640-2243682
+ Haciendas De San Jose,900000,75,3 ,2.0  , 1.0  ,http://www.casasyterrenos.com/detalle-casa/venta-haciendas+de+san+jose-tlaquepaque-jalisco-45601-2124676
+ Real Del Valle,685000,68,3 ,2.0  , 1.0  ,http://www.casasyterrenos.com/detalle-casa/venta-real+del+valle-tlajomulco+de+zuniga-jalisco-45640-2243619
+ Bosques Cedros,2650000,144,3 ,2.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-bosques+cedros-tlajomulco+de+zuniga-jalisco-2040640
+ Fraccionamiento Senderos Monte Verde,2270000,140,3 ,3.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-fraccionamiento+senderos+monte+verde-tlajomulco+de+zuniga-jalisco-2040633
+ Colonia Bosques De Santa Anita,1990000,110,3 ,2.0  , 1.0  ,http://www.casasyterrenos.com/detalle-casa/venta-colonia+bosques+de+santa+anita-tlajomulco+de+zuniga-jalisco-2040528
+ Colonia Bosques De Santa Anita,1990000,110,3 ,2.0  , 1.0  ,http://www.casasyterrenos.com/detalle-casa/venta-colonia+bosques+de+santa+anita-tlajomulco+de+zuniga-jalisco-2040521
+ Colonia Bosques De Santa Anita,1950000,108,3 ,2.0  , 1.0  ,http://www.casasyterrenos.com/detalle-casa/venta-colonia+bosques+de+santa+anita-tlajomulco+de+zuniga-jalisco-2040514
+ Colonia Bosques De Santa Anita,2530000,125,3 ,2.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-colonia+bosques+de+santa+anita-tlajomulco+de+zuniga-jalisco-2040507
+ Colonia Lomas De Santa Anita,4300000,657,4 ,5.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-colonia+lomas+de+santa+anita-tlajomulco+de+zuniga-jalisco-2040500
+ Colonia Colinas De Santa Anita,2570000,288,3 ,4.0  ,0,http://www.casasyterrenos.com/detalle-casa/venta-colonia+colinas+de+santa+anita-tlajomulco+de+zuniga-jalisco-2040493
+ Fraccionamiento Sendero Las Moras,1995000,153,3 ,3.0  , 1.0  ,http://www.casasyterrenos.com/detalle-casa/venta-fraccionamiento+sendero+las+moras-tlajomulco+de+zuniga-jalisco-2040486
+ Fraccionamiento Casa Fuerte,2290000,144,3 ,2.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-fraccionamiento+casa+fuerte-tlajomulco+de+zuniga-jalisco-2040479
+ Fraccionamiento Casa Fuerte,2945000,170,3 ,2.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-fraccionamiento+casa+fuerte-tlajomulco+de+zuniga-jalisco-2040472
+ Bosques Cedros,3390000,144,3 ,2.0  ,0,http://www.casasyterrenos.com/detalle-casa/venta-bosques+cedros-tlajomulco+de+zuniga-jalisco-2040465
+ Fraccionamiento Bugambilias,7450000,740,3 ,5.0  ,0,http://www.casasyterrenos.com/detalle-casa/venta-fraccionamiento+bugambilias-zapopan-jalisco-2040402
+ Colonia Los Gavilanes Poniente,3980000,160,3 ,3.0  ,0,http://www.casasyterrenos.com/detalle-casa/venta-colonia+los+gavilanes+poniente-tlajomulco+de+zuniga-jalisco-2109234
+ Colonia Los Gavilanes Poniente,5900000,183,3 ,3.0  ,0,http://www.casasyterrenos.com/detalle-casa/venta-colonia+los+gavilanes+poniente-tlajomulco+de+zuniga-jalisco-2109220
+ La Tijera,3850000,356,3 ,2.0  , 4.0  ,http://www.casasyterrenos.com/detalle-casa/venta-la+tijera-tlajomulco+de+zuniga-jalisco-2141182
+ Santa Anita,2960000,377,4 ,3.0  , 3.0  ,http://www.casasyterrenos.com/detalle-casa/venta-santa+anita-tlaquepaque-jalisco-2137045
+ Geovillas Los Olivos,650000,63,2 ,1.0  ,0,http://www.casasyterrenos.com/detalle-casa/venta-geovillas+los+olivos-tlaquepaque-jalisco-2136968
+ Sendero Las Moras,3280000,205,4 ,3.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-sendero+las+moras-tlajomulco+de+zuniga-jalisco-2218496
+ La Rioja,4400000,150,3 ,3.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-la+rioja-tlajomulco+de+zuniga-jalisco-2087470
+ Geovillas Los Olivos,675000,54,2 ,2.0  , 1.0  ,http://www.casasyterrenos.com/detalle-casa/venta-geovillas+los+olivos-tlaquepaque-jalisco-2128834
+ El Palomar,5500000,460,4 ,6.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-el+palomar-tlajomulco+de+zuniga-jalisco-1925351
+ Villas Camino Real De Colima,1270000,81,3 ,2.0  , 1.0  ,http://www.casasyterrenos.com/detalle-casa/venta-villas+camino+real+de+colima-tlajomulco+de+zuniga-jalisco-2233364
+ Balcones De La Calera,1170000,800,2 ,1.0  , 10.0  ,http://www.casasyterrenos.com/detalle-casa/venta-balcones+de+la+calera-tlajomulco+de+zuniga-jalisco-1996540
+ Villa California,1680000,140,3 ,1.0  ,0,http://www.casasyterrenos.com/detalle-casa/venta-villa+california-tlajomulco+de+zuniga-jalisco-2222598
+ Los Cantaros,255000,47,1 ,1.0  , 1.0  ,http://www.casasyterrenos.com/detalle-casa/venta-los+cantaros-tlajomulco+de+zuniga-jalisco-1925216
+ Alta California,1680000,120,3 ,3.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-alta+california-tlajomulco+de+zuniga-jalisco-45645-1727819
+ Santa Anita,2390000,148,3 ,3.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-santa+anita-tlajomulco+de+zuniga-jalisco-45640-1039489
+ Hacienda La Purisima,670000,105,1 ,1.0  , 1.0  ,http://www.casasyterrenos.com/detalle-casa/venta-hacienda+la+purisima-tlajomulco+de+zuniga-jalisco-45640-1899348
+ Villa California,2300000,140,3 ,2.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-villa+california-tlajomulco+de+zuniga-jalisco-45645-1980399
+ El Alcázar (casa Fuerte),2680000,140,4 ,4.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-el+alcazar+(casa+fuerte)-tlajomulco+de+zuniga-jalisco-1860538
+ Banus,780000,74,2 ,1.0  , 1.0  ,http://www.casasyterrenos.com/detalle-casa/venta-banus-tlajomulco+de+zuniga-jalisco-2179933
+ Paseos Del Prado,680000,80,3 ,3.0  , 1.0  ,http://www.casasyterrenos.com/detalle-casa/venta-paseos+del+prado-tlaquepaque-jalisco-1839663
+ Villa Fontana Aqua,540000,60,3 ,1.0  , 1.0  ,http://www.casasyterrenos.com/detalle-casa/venta-villa+fontana+aqua-tlajomulco+de+zuniga-jalisco-1839588
+ La Arbolada,1275000,110,3 ,2.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-la+arbolada-tlajomulco+de+zuniga-jalisco-45654-2059834
+ El Manantial,5700000,285,3 ,3.0  , 4.0  ,http://www.casasyterrenos.com/detalle-casa/venta-el+manantial-tlajomulco+de+zuniga-jalisco-1770753
+ El Alcázar (casa Fuerte),3450000,300,4 ,4.0  , 3.0  ,http://www.casasyterrenos.com/detalle-casa/venta-el+alcazar+(casa+fuerte)-tlajomulco+de+zuniga-jalisco-1973333
+ El Palomar Secc Jockey Club,9500000,340,4 ,4.0  , 4.0  ,http://www.casasyterrenos.com/detalle-casa/venta-el+palomar+secc+jockey+club-tlajomulco+de+zuniga-jalisco-2066134
+ Nueva Galicia Residencial,3150000,119,4 ,2.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-nueva+galicia+residencial-tlajomulco+de+zuniga-jalisco-1973325
+ La Rioja,3650000,130,4 ,2.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-la+rioja-tlajomulco+de+zuniga-jalisco-1973321
+ Lomas De Santa Anita,5500000,600,4 ,4.0  , 6.0  ,http://www.casasyterrenos.com/detalle-casa/venta-lomas+de+santa+anita-tlajomulco+de+zuniga-jalisco-1831808
+ Cajititlan,1850000,1080,2 ,1.0  , 3.0  ,http://www.casasyterrenos.com/detalle-casa/venta-cajititlan-tlajomulco+de+zuniga-jalisco-2172982
+ El Palomar,6550000,405,4 ,5.0  , 4.0  ,http://www.casasyterrenos.com/detalle-casa/venta-el+palomar-tlajomulco+de+zuniga-jalisco-2123451
+ El Campanario,6580000,1215,5 ,3.0  , 30.0  ,http://www.casasyterrenos.com/detalle-casa/venta-el+campanario-zapopan-jalisco-2050223
+ Senderos De Monte Verde,2400000,154,3 ,2.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-senderos+de+monte+verde-tlajomulco+de+zuniga-jalisco-2100231
+ Haciendas De Vista Hermosa,910000,90,3 ,2.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-haciendas+de+vista+hermosa-tlaquepaque-jalisco-2218216
+ Tlaquepaque Centro,9100000,560,8 ,5.0  , 8.0  ,http://www.casasyterrenos.com/detalle-casa/venta-tlaquepaque+centro-tlaquepaque-jalisco-2150401
+ El Alcázar (casa Fuerte),2600000,140,3 ,4.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-el+alcazar+(casa+fuerte)-tlajomulco+de+zuniga-jalisco-2005038
+ Santa Anita,17000000,1021,4 ,4.0  ,0,http://www.casasyterrenos.com/detalle-casa/venta-santa+anita-tlajomulco+de+zuniga-jalisco-2005031
+ El Alcázar (casa Fuerte),2625000,140,3 ,4.0  ,0,http://www.casasyterrenos.com/detalle-casa/venta-el+alcazar+(casa+fuerte)-tlajomulco+de+zuniga-jalisco-1976537
+ El Alcázar (casa Fuerte),2600000,143,3 ,4.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-el+alcazar+(casa+fuerte)-tlajomulco+de+zuniga-jalisco-1976533
+ El Alcázar (casa Fuerte),2550000,140,3 ,4.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-el+alcazar+(casa+fuerte)-tlajomulco+de+zuniga-jalisco-1976529
+ El Alcázar (casa Fuerte),2600000,140,3 ,4.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-el+alcazar+(casa+fuerte)-tlajomulco+de+zuniga-jalisco-1976525
+ El Palomar Secc Balcones,4980000,650,3 ,3.0  , 6.0  ,http://www.casasyterrenos.com/detalle-casa/venta-el+palomar+secc+balcones-tlajomulco+de+zuniga-jalisco-2136506
+ Las Terrazas Residencial,780000,66,2 ,1.0  , 1.0  ,http://www.casasyterrenos.com/detalle-casa/venta-las+terrazas+residencial-tlaquepaque-jalisco-2222304
+ Paseos Del Valle,470000,73,2 ,1.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-paseos+del+valle-tlajomulco+de+zuniga-jalisco-2156323
+ Toluquilla,874000,68,3 ,2.0  , 1.0  ,http://www.casasyterrenos.com/detalle-casa/venta-toluquilla-tlaquepaque-jalisco-2132558
+ Las Terrazas Residencial,899000,74,2 ,1.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-las+terrazas+residencial-tlaquepaque-jalisco-2100203
+ Las Terrazas Residencial,1050000,107,2 ,1.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-las+terrazas+residencial-tlaquepaque-jalisco-2066008
+ Toluquilla,987000,70,3 ,2.0  , 1.0  ,http://www.casasyterrenos.com/detalle-casa/venta-toluquilla-tlaquepaque-jalisco-2080288
+ El Alcázar (casa Fuerte),2700000,90,3 ,2.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-el+alcazar+(casa+fuerte)-tlajomulco+de+zuniga-jalisco-2045463
+ Hacienda Santa Fe,375280,80,2 ,1.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-hacienda+santa+fe-tlajomulco+de+zuniga-jalisco-1954245
+ Real Del Valle,700000,68,3 ,3.0  ,0,http://www.casasyterrenos.com/detalle-casa/venta-real+del+valle-tlajomulco+de+zuniga-jalisco-1937331
+ El Palomar Secc Balcones,5600000,650,4 ,3.0  , 4.0  ,http://www.casasyterrenos.com/detalle-casa/venta-el+palomar+secc+balcones-tlajomulco+de+zuniga-jalisco-1924941
+ Bosques De Santa Anita,4250000,252,4 ,3.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-bosques+de+santa+anita-tlajomulco+de+zuniga-jalisco-1916621
+ Real Del Valle,670000,66,3 ,2.0  , 1.0  ,http://www.casasyterrenos.com/detalle-casa/venta-real+del+valle-tlajomulco+de+zuniga-jalisco-1860503
+ Real Del Valle,670000,66,3 ,2.0  , 1.0  ,http://www.casasyterrenos.com/detalle-casa/venta-real+del+valle-tlajomulco+de+zuniga-jalisco-1877463
+ Las Terrazas Residencial,775000,66,2 ,1.0  , 1.0  ,http://www.casasyterrenos.com/detalle-casa/venta-las+terrazas+residencial-tlaquepaque-jalisco-1823258
+ Las Terrazas Residencial,715000,66,2 ,1.0  , 1.0  ,http://www.casasyterrenos.com/detalle-casa/venta-las+terrazas+residencial-tlaquepaque-jalisco-1823253
+ Senderos De Monte Verde,2390000,138,3 ,3.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-senderos+de+monte+verde-tlajomulco+de+zuniga-jalisco-1945606
+ Concepción Del Valle,1500000,86,3 ,2.0  ,0,http://www.casasyterrenos.com/detalle-casa/venta-concepcion+del+valle-tlajomulco+de+zuniga-jalisco-1721054
+ Colinas Del Roble,386000,90,1 ,1.0  , 1.0  ,http://www.casasyterrenos.com/detalle-casa/venta-colinas+del+roble-tlajomulco+de+zuniga-jalisco-1828403
+ Cajititlan,5500000,657,3 ,3.0  , 6.0  ,http://www.casasyterrenos.com/detalle-casa/venta-cajititlan-tlajomulco+de+zuniga-jalisco-1853388
+ Bugambilias,11150000,360,4 ,5.5  , 6.0  ,http://www.casasyterrenos.com/detalle-casa/venta-bugambilias-zapopan-jalisco-1168336
+ Club De Golf Santa Anita,9500000,1057,3 ,4.5  , 4.0  ,http://www.casasyterrenos.com/detalle-casa/venta-club+de+golf+santa+anita-tlajomulco+de+zuniga-jalisco-45640-1538455
+ Punto Sur,3650000,130,3 ,2.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-punto+sur-tlajomulco+de+zuniga-jalisco-45645-2061206
+ Bugambilias,4950000,299,3 ,2.5  , 4.0  ,http://www.casasyterrenos.com/detalle-casa/venta-bugambilias-zapopan-jalisco-2124249
+ El Palomar Secc Balcones,14000000,,4 ,4.0  , 4.0  ,http://www.casasyterrenos.com/detalle-casa/venta-el+palomar+secc+balcones-tlajomulco+de+zuniga-jalisco-2074415
+ La Rioja,6200000,280,4 ,4.0  , 4.0  ,http://www.casasyterrenos.com/detalle-casa/venta-la+rioja-tlajomulco+de+zuniga-jalisco-2227057
+ La Guadalupana,3800000,240,4 ,3.0  , 4.0  ,http://www.casasyterrenos.com/detalle-casa/venta-la+guadalupana-tlaquepaque-jalisco-2227036
+ La Rioja,5500000,248,4 ,3.0  , 3.0  ,http://www.casasyterrenos.com/detalle-casa/venta-la+rioja-tlajomulco+de+zuniga-jalisco-2179702
+ Santa Anita,1190000,72,2 ,1.0  , 1.0  ,http://www.casasyterrenos.com/detalle-casa/venta-santa+anita-tlajomulco+de+zuniga-jalisco-2050020
+ El Alcázar (casa Fuerte),2700000,170,3 ,2.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-el+alcazar+(casa+fuerte)-tlajomulco+de+zuniga-jalisco-1945516
+ Bosques De Santa Anita,1700000,105,3 ,2.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-bosques+de+santa+anita-tlajomulco+de+zuniga-jalisco-1924846
+ Hacienda Del Real,990000,90,3 ,2.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-hacienda+del+real-tonala-jalisco-1687110
+ San Martin Del Tajo,4500000,251,3 ,3.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-san+martin+del+tajo-tlajomulco+de+zuniga-jalisco-1687130
+ Banus,1120000,129,3 ,3.0  , 5.0  ,http://www.casasyterrenos.com/detalle-casa/venta-banus-tlajomulco+de+zuniga-jalisco-1687098
+ Antares I,2129000,138,3 ,3.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-antares+i-tlaquepaque-jalisco-46500-1689338
+ Los Gavilanes,3035000,136,3 ,2.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-los+gavilanes-tlajomulco+de+zuniga-jalisco-45640-1450796
+ Geo Villas Los Olivos Ii,740000,53,2 ,2.0  , 1.0  ,http://www.casasyterrenos.com/detalle-casa/venta-geo+villas+los+olivos+ii-tlaquepaque-jalisco-45610-1705606
+ Pedregal Del Bosque,1050000,90,3 ,2.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-pedregal+del+bosque-tlaquepaque-jalisco-2065931
+ Fraccionamiento El Origen,2395000,108,3 ,3.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-fraccionamiento+el+origen-tlajomulco+de+zuniga-jalisco-2075717
+ Casa Fuerte,2800000,140,3 ,3.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-casa+fuerte-tlajomulco+de+zuniga-jalisco-45645-2157338
+ Senderos De Monte Verde,3190000,200,3 ,3.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-senderos+de+monte+verde-tlajomulco+de+zuniga-jalisco-45640-2016427
+ Senderos De Monte Verde,3190000,200,3 ,3.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-senderos+de+monte+verde-tlajomulco+de+zuniga-jalisco-45640-2080211
+ La Micailita,1000000,96,3 ,2.5  , 1.0  ,http://www.casasyterrenos.com/detalle-casa/venta-la+micailita-tlaquepaque-jalisco-45595-1956229
+ Altus Bosques,890000,90,3 ,2.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-altus+bosques-tlajomulco+de+zuniga-jalisco-45654-2159284
+ Hacienda Santa Fe,499000,80,2 ,1.0  , 1.0  ,http://www.casasyterrenos.com/detalle-casa/venta-hacienda+santa+fe-tlajomulco+de+zuniga-jalisco-45640-2241526
+ Bosques De Santa Anita,1560000,126,3 ,2.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-bosques+de+santa+anita-tlajomulco+de+zuniga-jalisco-45640-2054143
+ El Origen,2150000,105,3 ,2.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-el+origen-tlajomulco+de+zuniga-jalisco-20715-2215710
+ Balcones De Santa Anita,345000,74,3 ,1.0  ,0,http://www.casasyterrenos.com/detalle-casa/venta-balcones+de+santa+anita-tlajomulco+de+zuniga-jalisco-45640-2059624
+ Naturezza,1735000,123,3 ,2.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-naturezza-tlajomulco+de+zuniga-jalisco-45645-2219728
+ Cortijo San Agustin,2950000,270,3 ,2.5  , 4.0  ,http://www.casasyterrenos.com/detalle-casa/venta-cortijo+san+agustin-tlajomulco+de+zuniga-jalisco-45640-2219777
+ Fraccionamiento Sendero Las Moras,3618000,185,3 ,2.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-fraccionamiento+sendero+las+moras-tlajomulco+de+zuniga-jalisco-2224089
+ Sendero De Las Moras,3500000,160,3 ,2.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-sendero+de+las+moras-tlajomulco+de+zuniga-jalisco-45640-2241491
+ La Rioja,4300000,253,3 ,3.5  , 3.0  ,http://www.casasyterrenos.com/detalle-casa/venta-la+rioja-tlajomulco+de+zuniga-jalisco-45640-2241498
+ Villa California,2400000,96,3 ,2.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-villa+california-tlajomulco+de+zuniga-jalisco-45640-1525968
+ Fraccionamiento El Origen,2100000,121,3 ,2.0  ,0,http://www.casasyterrenos.com/detalle-casa/venta-fraccionamiento+el+origen-tlajomulco+de+zuniga-jalisco-2226028
+ Senderos De Monte Verde,2100000,145,3 ,3.0  ,0,http://www.casasyterrenos.com/detalle-casa/venta-senderos+de+monte+verde-tlajomulco+de+zuniga-jalisco-1742559
+ Senderos De Monte Verde,2100000,145,3 ,3.0  ,0,http://www.casasyterrenos.com/detalle-casa/venta-senderos+de+monte+verde-tlajomulco+de+zuniga-jalisco-1742554
+ Senderos De Monte Verde,2100000,140,3 ,2.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-senderos+de+monte+verde-tlajomulco+de+zuniga-jalisco-1686798
+ La Loma,2150000,120,3 ,3.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-la+loma-tlajomulco+de+zuniga-jalisco-2172534
+ Cortijo De San Agustin,1500000,82,3 ,2.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-cortijo+de+san+agustin-tlajomulco+de+zuniga-jalisco-2160733
+ Santa Cruz Del Valle,990000,80,3 ,2.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-santa+cruz+del+valle-tlaquepaque-jalisco-1896898
+ Fraccionamiento Bugambilias,5380000,361,4 ,3.0  , 3.0  ,http://www.casasyterrenos.com/detalle-casa/venta-fraccionamiento+bugambilias-zapopan-jalisco-1693550
+ El Palomar,5380000,300,3 ,4.0  ,0,http://www.casasyterrenos.com/detalle-casa/venta-el+palomar-tlajomulco+de+zuniga-jalisco-1693546
+ Nicolás R Casillas,1750000,103,3 ,2.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-nicolas+r+casillas-tlajomulco+de+zuniga-jalisco-1693478
+ Real Del Valle,950000,99,3 ,3.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-real+del+valle-tlajomulco+de+zuniga-jalisco-2195382
+ Las Terrazas Residencial,1050000,82,2 ,0, 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-las+terrazas+residencial-tlaquepaque-jalisco-2166767
+ El Palomar,4450000,360,3 ,4.5  , 4.0  ,http://www.casasyterrenos.com/detalle-casa/venta-el+palomar-tlajomulco+de+zuniga-jalisco-45640-1138528
+ Lago Nogal,7200000,650,3 ,5.0  , 5.0  ,http://www.casasyterrenos.com/detalle-casa/venta-lago+nogal-tlajomulco+de+zuniga-jalisco-45640-1685134
+ San Jose Del Tajo,5490000,267,5 ,4.5  , 4.0  ,http://www.casasyterrenos.com/detalle-casa/venta-san+jose+del+tajo-tlajomulco+de+zuniga-jalisco-45645-2241232
+ El Cielo Country Club,1700000,900,6 ,6.5  , 6.0  ,http://www.casasyterrenos.com/detalle-casa/venta-el+cielo+country+club-tlajomulco+de+zuniga-jalisco-45640-2241148
+ Fraccionamiento Bugambilias,4550000,459,4 ,4.0  , 4.0  ,http://www.casasyterrenos.com/detalle-casa/venta-fraccionamiento+bugambilias-zapopan-jalisco-2085265
+ Valle Verde,510000,65,3 ,0,0,http://www.casasyterrenos.com/detalle-casa/venta-valle+verde-tlaquepaque-jalisco-2204797
+ El Alcázar (casa Fuerte),3450000,300,3 ,4.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-el+alcazar+%28casa+fuerte%29-tlajomulco+de+zuniga-jalisco-2241099
+ Club De Golf Santa Anita,235000,416,3 ,3.0  , 4.0  ,http://www.casasyterrenos.com/detalle-casa/venta-club+de+golf+santa+anita-tlajomulco+de+zuniga-jalisco-1939511
+ Acueducto San Agustin,2095000,180,4 ,2.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-acueducto+san+agustin-tlajomulco+de+zuniga-jalisco-1892393
+ El Manantial,4750000,250,3 ,3.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-el+manantial-tlajomulco+de+zuniga-jalisco-2231572
+ Del Pilar Residencial,5900000,231,3 ,4.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-del+pilar+residencial-tlajomulco+de+zuniga-jalisco-2123101
+ Arboleda Bosques De Santa Anita,1860000,90,3 ,2.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-arboleda+bosques+de+santa+anita-tlajomulco+de+zuniga-jalisco-2103395
+ Bosques De Santa Anita,1730000,90,3 ,2.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-bosques+de+santa+anita-tlajomulco+de+zuniga-jalisco-2085160
+ Nueva Galicia Residencial,2800000,119,3 ,3.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-nueva+galicia+residencial-tlajomulco+de+zuniga-jalisco-2073456
+ Las Terrazas Residencial,950000,70,3 ,2.0  , 1.0  ,http://www.casasyterrenos.com/detalle-casa/venta-las+terrazas+residencial-tlaquepaque-jalisco-2019549
+ Arroyo Seco,1350000,80,4 ,3.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-arroyo+seco-tlaquepaque-jalisco-1896728
+ San Jose Del Castillo,3700000,780,3 ,3.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-san+jose+del+castillo-el+salto-jalisco-1891208
+ Villa Fontana,780000,96,3 ,2.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-villa+fontana-tlaquepaque-jalisco-1872943
+ Fraccionamiento Bugambilias,8790000,547,4 ,4.0  , 4.0  ,http://www.casasyterrenos.com/detalle-casa/venta-fraccionamiento+bugambilias-zapopan-jalisco-1787818
+ Club De Golf Santa Anita,14500000,699,4 ,4.5  , 8.0  ,http://www.casasyterrenos.com/detalle-casa/venta-club+de+golf+santa+anita-tlajomulco+de+zuniga-jalisco-45640-1976945
+ El Alcázar (casa Fuerte),2530000,140,0,0,0,http://www.casasyterrenos.com/detalle-casa/venta-el+alcazar+(casa+fuerte)-tlajomulco+de+zuniga-jalisco-1978405
+ Residencial Provenza (la Romana),8000000,550,4 ,4.0  ,0,http://www.casasyterrenos.com/detalle-casa/venta-residencial+provenza+(la+romana)-tlajomulco+de+zuniga-jalisco-1784908
+ La Rioja,3700000,166,3 ,2.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-la+rioja-tlajomulco+de+zuniga-jalisco-1637687
+ San Sebastian El Grande,16800000,19800,5 ,4.0  , 7.0  ,http://www.casasyterrenos.com/detalle-casa/venta-san+sebastian+el+grande-tlajomulco+de+zuniga-jalisco-2231509
+ El Manantial,6300000,280,3 ,3.0  , 4.0  ,http://www.casasyterrenos.com/detalle-casa/venta-el+manantial-tlajomulco+de+zuniga-jalisco-1853138
+ San Miguel Cuyutlan,2400000,996,2 ,1.0  , 6.0  ,http://www.casasyterrenos.com/detalle-casa/venta-san+miguel+cuyutlan-tlajomulco+de+zuniga-jalisco-1800258
+ Santa Anita,24500000,1760,4 ,4.0  , 10.0  ,http://www.casasyterrenos.com/detalle-casa/venta-santa+anita-tlaquepaque-jalisco-1863118
+ El Alcázar (casa Fuerte),2550000,140,3 ,2.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-el+alcazar+(casa+fuerte)-tlajomulco+de+zuniga-jalisco-2220757
+ Real Del Valle,950000,100,3 ,3.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-real+del+valle-tlajomulco+de+zuniga-jalisco-2069165
+ Senderos De Monte Verde,2450000,168,3 ,3.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-senderos+de+monte+verde-tlajomulco+de+zuniga-jalisco-2117494
+ Jardines Del Edén,1150000,72,3 ,2.0  , 1.0  ,http://www.casasyterrenos.com/detalle-casa/venta-jardines+del+eden-tlajomulco+de+zuniga-jalisco-1939396
+ Jardines Del Edén,1450000,90,3 ,2.0  , 1.0  ,http://www.casasyterrenos.com/detalle-casa/venta-jardines+del+eden-tlajomulco+de+zuniga-jalisco-1939391
+ Jardines Del Edén,1450000,90,3 ,2.0  , 1.0  ,http://www.casasyterrenos.com/detalle-casa/venta-jardines+del+eden-tlajomulco+de+zuniga-jalisco-1939386
+ Del Pilar Residencial,3800000,160,3 ,4.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-del+pilar+residencial-tlajomulco+de+zuniga-jalisco-1937086
+ Real Del Bosque,2980000,142,3 ,2.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-real+del+bosque-tlajomulco+de+zuniga-jalisco-1784773
+ Arboleda Bosques De Santa Anita,3620000,220,3 ,3.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-arboleda+bosques+de+santa+anita-tlajomulco+de+zuniga-jalisco-2127098
+ Bosques De Santa Anita,3650000,220,3 ,2.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-bosques+de+santa+anita-tlajomulco+de+zuniga-jalisco-2103297
+ Del Pilar Residencial,2700000,144,4 ,3.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-del+pilar+residencial-tlajomulco+de+zuniga-jalisco-1442536
+ Rincon De Los Copales,3800000,2240,3 ,2.0  , 8.0  ,http://www.casasyterrenos.com/detalle-casa/venta-rincon+de+los+copales-tlajomulco+de+zuniga-jalisco-45640-1292529
+ Rincon De Los Copales,3800000,2240,3 ,2.0  , 6.0  ,http://www.casasyterrenos.com/detalle-casa/venta-rincon+de+los+copales-tlajomulco+de+zuniga-jalisco-45640-1292574
+ San Agustin Poniente,3800000,2240,3 ,2.0  , 6.0  ,http://www.casasyterrenos.com/detalle-casa/venta-san+agustin+poniente-tlajomulco+de+zuniga-jalisco-1301282
+ Bugambilias,6170000,403,4 ,5.0  , 3.0  ,http://www.casasyterrenos.com/detalle-casa/venta-bugambilias-zapopan-jalisco-1525978
+ Casa Fuerte,2390000,215,3 ,2.5  , 3.0  ,http://www.casasyterrenos.com/detalle-casa/venta-casa+fuerte-tlajomulco+de+zuniga-jalisco-45645-1684326
+ Casa Fuerte,2480000,140,4 ,3.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-casa+fuerte-tlajomulco+de+zuniga-jalisco-45645-1761654
+ Ciudad Bugambilias,7400000,403,4 ,4.5  , 4.0  ,http://www.casasyterrenos.com/detalle-casa/venta-ciudad+bugambilias-zapopan-jalisco-45237-1746374
+ El Alcázar (casa Fuerte),2390000,184,3 ,2.5  , 3.0  ,http://www.casasyterrenos.com/detalle-casa/venta-el+alcazar+%28casa+fuerte%29-tlajomulco+de+zuniga-jalisco-1775143
+ El Alcázar (casa Fuerte),2380000,140,3 ,2.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-el+alcazar+%28casa+fuerte%29-tlajomulco+de+zuniga-jalisco-1922376
+ El Alcázar (casa Fuerte),2940000,160,3 ,3.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-el+alcazar+%28casa+fuerte%29-tlajomulco+de+zuniga-jalisco-1931936
+ San Agustin,1950000,102,3 ,3.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-san+agustin-tlajomulco+de+zuniga-jalisco-45640-1931941
+ Nueva Galicia,2750000,119,3 ,3.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-nueva+galicia-tlajomulco+de+zuniga-jalisco-45640-1953597
+ San Agustin,2350000,120,3 ,2.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-san+agustin-tlajomulco+de+zuniga-jalisco-45640-1957081
+ San Agustin,1950000,102,3 ,3.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-san+agustin-tlajomulco+de+zuniga-jalisco-45640-1966069
+ Casa Fuerte,2625000,140,3 ,3.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-casa+fuerte-tlajomulco+de+zuniga-jalisco-45645-1966153
+ Bugambilias,7400000,450,4 ,4.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-bugambilias-zapopan-jalisco-2146600
+ Del Pilar Residencial,3800000,160,4 ,4.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-del+pilar+residencial-tlajomulco+de+zuniga-jalisco-45640-2177434
+ Hacienda San Agustin,2120000,120,3 ,2.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-hacienda+san+agustin-tlajomulco+de+zuniga-jalisco-45645-2180192
+ San Agustin,2120000,120,3 ,2.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-san+agustin-tlajomulco+de+zuniga-jalisco-45640-2185372
+ El Alcázar (casa Fuerte),2490000,144,3 ,3.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-el+alcazar+%28casa+fuerte%29-tlajomulco+de+zuniga-jalisco-2223515
+ El Alcázar (casa Fuerte),2690000,144,3 ,3.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-el+alcazar+%28casa+fuerte%29-tlajomulco+de+zuniga-jalisco-2223536
+ El Alcázar (casa Fuerte),2300000,146,4 ,3.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-el+alcazar+%28casa+fuerte%29-tlajomulco+de+zuniga-jalisco-2223557
+ Rancho Alegre,750000,68,4 ,1.0  , 1.0  ,http://www.casasyterrenos.com/detalle-casa/venta-rancho+alegre-tlajomulco+de+zuniga-jalisco-2204069
+ El Alcázar (casa Fuerte),3799000,216,3 ,2.0  , 4.0  ,http://www.casasyterrenos.com/detalle-casa/venta-el+alcazar+(casa+fuerte)-tlajomulco+de+zuniga-jalisco-1953709
+ Altus Bosques,859999,90,3 ,2.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-altus+bosques-tlajomulco+de+zuniga-jalisco-1916006
+ Villa Fontana,699900,93,3 ,2.0  , 1.0  ,http://www.casasyterrenos.com/detalle-casa/venta-villa+fontana-tlaquepaque-jalisco-1904143
+ Villa Fontana,599900,60,2 ,1.0  , 1.0  ,http://www.casasyterrenos.com/detalle-casa/venta-villa+fontana-tlaquepaque-jalisco-1904138
+ Real Del Sol,400000,83,2 ,1.0  , 1.0  ,http://www.casasyterrenos.com/detalle-casa/venta-real+del+sol-tlajomulco+de+zuniga-jalisco-45684-2240420
+ Villa California,1850000,140,3 ,1.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-villa+california-tlajomulco+de+zuniga-jalisco-45645-2119762
+ Valle Del Sur,1790000,90,3 ,2.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-valle+del+sur-tlaquepaque-jalisco-45601-2240287
+ Haciend Real,630000,66,2 ,1.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-haciend+real-tonala-jalisco-1524538
+ Los Manzanos,2850000,152,4 ,3.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-los+manzanos-tlajomulco+de+zuniga-jalisco-45640-2075913
+ Punto Sur,3675000,130,3 ,2.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-punto+sur-tlajomulco+de+zuniga-jalisco-45645-1899973
+ Casa Fuerte,3450000,300,3 ,3.5  , 3.0  ,http://www.casasyterrenos.com/detalle-casa/venta-casa+fuerte-tlajomulco+de+zuniga-jalisco-45645-1900008
+ Casa Fuerte,3450000,250,3 ,3.0  , 3.0  ,http://www.casasyterrenos.com/detalle-casa/venta-casa+fuerte-tlajomulco+de+zuniga-jalisco-45645-1900038
+ Nueva Galicia,3150000,119,3 ,2.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-nueva+galicia-tlajomulco+de+zuniga-jalisco-45640-1943041
+ Punto Sur,3680000,126,3 ,3.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-punto+sur-tlajomulco+de+zuniga-jalisco-45645-1982555
+ Punto Sur,4290000,126,3 ,3.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-punto+sur-tlajomulco+de+zuniga-jalisco-45645-1982611
+ Bosques De Santa Anita,5500000,235,3 ,4.0  , 3.0  ,http://www.casasyterrenos.com/detalle-casa/venta-bosques+de+santa+anita-tlajomulco+de+zuniga-jalisco-45640-2170217
+ Villa Fontana,640000,80,2 ,1.5  , 1.0  ,http://www.casasyterrenos.com/detalle-casa/venta-villa+fontana-tlaquepaque-jalisco-45615-2239895
+ Jardines De Tlajomulco,1990000,1500,6 ,4.0  , 6.0  ,http://www.casasyterrenos.com/detalle-casa/venta-jardines+de+tlajomulco-tlajomulco+de+zuniga-jalisco-45640-1938796
+ San Agustin,1900000,146,3 ,2.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-san+agustin-tlajomulco+de+zuniga-jalisco-45640-1971453
+ Nueva Galicia Residencial,3500000,125,3 ,2.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-nueva+galicia+residencial-tlajomulco+de+zuniga-jalisco-45645-1979037
+ San Agustin,570000,84,3 ,1.5  , 1.0  ,http://www.casasyterrenos.com/detalle-casa/venta-san+agustin-tlajomulco+de+zuniga-jalisco-45640-1997590
+ Santa Anita Camino Real,879000,82,3 ,1.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-santa+anita+camino+real-tlaquepaque-jalisco-45640-2011002
+ Bugambilias,4990000,300,4 ,5.5  , 3.0  ,http://www.casasyterrenos.com/detalle-casa/venta-bugambilias-zapopan-jalisco-2026556
+ Bugambilias,4900000,435,5 ,5.0  , 5.0  ,http://www.casasyterrenos.com/detalle-casa/venta-bugambilias-zapopan-jalisco-2053842
+ Bugambilias,4200000,300,3 ,3.5  , 5.0  ,http://www.casasyterrenos.com/detalle-casa/venta-bugambilias-zapopan-jalisco-2096206
+ La Rioja,5400000,248,4 ,4.5  , 3.0  ,http://www.casasyterrenos.com/detalle-casa/venta-la+rioja-tlajomulco+de+zuniga-jalisco-45640-2133587
+ Hacienda San Agustin,1280000,133,3 ,2.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-hacienda+san+agustin-tlajomulco+de+zuniga-jalisco-45645-2139740
+ Valle Dorado,550000,80,2 ,1.5  , 1.0  ,http://www.casasyterrenos.com/detalle-casa/venta-valle+dorado-tlajomulco+de+zuniga-jalisco-45640-2239839
+ San Martin Del Tajo,4550000,244,3 ,4.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-san+martin+del+tajo-tlajomulco+de+zuniga-jalisco-45640-2135316
+ El Capulin,695000,54,2 ,3.0  , 1.0  ,http://www.casasyterrenos.com/detalle-casa/venta-el+capulin-tlajomulco+de+zuniga-jalisco-45640-2239811
+ La Tijera,2179760,107,3 ,2.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-la+tijera-tlajomulco+de+zuniga-jalisco-45620-1754239
+ Villa California,1890000,140,3 ,1.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-villa+california-tlajomulco+de+zuniga-jalisco-45640-2239790
+ San Agustin,890000,85,2 ,2.0  , 1.0  ,http://www.casasyterrenos.com/detalle-casa/venta-san+agustin-tlajomulco+de+zuniga-jalisco-45640-2239720
+ Banus,887000,130,3 ,1.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-banus-tlajomulco+de+zuniga-jalisco-2238649
+ Miraflores,810000,102,2 ,1.0  , 1.0  ,http://www.casasyterrenos.com/detalle-casa/venta-miraflores-tlaquepaque-jalisco-45610-2239692
+ Aurea Residencial,2341000,119,3 ,2.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-aurea+residencial-tlaquepaque-jalisco-45602-2139775
+ Lomas De San Agustin,570000,78,2 ,1.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-lomas+de+san+agustin-tlajomulco+de+zuniga-jalisco-45640-2239643
+ Bosques Cedros,3250000,192,3 ,2.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-bosques+cedros-tlajomulco+de+zuniga-jalisco-1894108
+ Las Terrazas,1039000,74,2 ,1.5  , 1.0  ,http://www.casasyterrenos.com/detalle-casa/venta-las+terrazas-tlaquepaque-jalisco-45610-2239566
+ Santa Anita,1150000,72,2 ,1.5  , 1.0  ,http://www.casasyterrenos.com/detalle-casa/venta-santa+anita-tlaquepaque-jalisco-45600-1785373
+ La Calera,2450000,1500,1 ,3.0  , 6.0  ,http://www.casasyterrenos.com/detalle-casa/venta-la+calera-tlajomulco+de+zuniga-jalisco-45640-2105446
+ Casa Fuerte,2280420,140,3 ,2.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-casa+fuerte-tlajomulco+de+zuniga-jalisco-45645-2081891
+ Residencial De Las Moras,1680000,99,4 ,2.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-residencial+de+las+moras-tlajomulco+de+zuniga-jalisco-45620-2080183
+ Bugambilias,8450000,673,4 ,4.0  , 3.0  ,http://www.casasyterrenos.com/detalle-casa/venta-bugambilias-zapopan-jalisco-2078293
+ San Agustin,1280000,60,2 ,2.5  , 1.0  ,http://www.casasyterrenos.com/detalle-casa/venta-san+agustin-tlajomulco+de+zuniga-jalisco-45640-2078195
+ San Agustin,1220000,63,2 ,2.5  , 1.0  ,http://www.casasyterrenos.com/detalle-casa/venta-san+agustin-tlajomulco+de+zuniga-jalisco-45640-2078167
+ Vista Hermosa,750000,90,3 ,1.0  , 1.0  ,http://www.casasyterrenos.com/detalle-casa/venta-vista+hermosa-tlaquepaque-jalisco-45618-2016679
+ Casa Fuerte,1428306,96,4 ,3.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-casa+fuerte-tlajomulco+de+zuniga-jalisco-45645-1529553
+ Centro,650000,90,2 ,1.0  , 1.0  ,http://www.casasyterrenos.com/detalle-casa/venta-centro-tlajomulco+de+zuniga-jalisco-45640-2028985
+ Lago Nogal,9250000,496,4 ,3.5  , 3.0  ,http://www.casasyterrenos.com/detalle-casa/venta-lago+nogal-tlajomulco+de+zuniga-jalisco-45640-1718530
+ Sendero Del Valle,640000,90,3 ,2.5  , 1.0  ,http://www.casasyterrenos.com/detalle-casa/venta-sendero+del+valle-tlajomulco+de+zuniga-jalisco-45640-1743394
+ Cajititlan,1300000,462,3 ,1.5  , 3.0  ,http://www.casasyterrenos.com/detalle-casa/venta-cajititlan-tlajomulco+de+zuniga-jalisco-45670-2016574
+ Parques Del Bosque,1790000,80,4 ,2.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-parques+del+bosque-tlaquepaque-jalisco-45609-2239314
+ Santa Anita,3200000,245,3 ,3.0  , 3.0  ,http://www.casasyterrenos.com/detalle-casa/venta-santa+anita-tlajomulco+de+zuniga-jalisco-45640-1188903
+ Hacienda De Los Eucaliptos,540000,90,2 ,1.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-hacienda+de+los+eucaliptos-tlajomulco+de+zuniga-jalisco-45640-2043391
+ Bosques De Santa Anita,6900000,424,3 ,3.5  , 8.0  ,http://www.casasyterrenos.com/detalle-casa/venta-bosques+de+santa+anita-tlajomulco+de+zuniga-jalisco-45640-1895983
+ Casa Fuerte,2280000,140,4 ,2.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-casa+fuerte-tlajomulco+de+zuniga-jalisco-45645-2239265
+ Villa Fontana,590000,72,2 ,1.5  , 1.0  ,http://www.casasyterrenos.com/detalle-casa/venta-villa+fontana-tlaquepaque-jalisco-45615-2001965
+ Santa Anita,12600000,945,4 ,3.5  , 5.0  ,http://www.casasyterrenos.com/detalle-casa/venta-santa+anita-tlajomulco+de+zuniga-jalisco-45640-1891573
+ Club De Golf Santa Anita,7500000,1200,4 ,5.0  , 4.0  ,http://www.casasyterrenos.com/detalle-casa/venta-club+de+golf+santa+anita-tlajomulco+de+zuniga-jalisco-45640-1127424
+ Los Pinos,1550000,158,4 ,2.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-los+pinos-tlajomulco+de+zuniga-jalisco-45640-1142748
+ Club De Golf Santa Anita,7500000,743,3 ,3.5  , 6.0  ,http://www.casasyterrenos.com/detalle-casa/venta-club+de+golf+santa+anita-tlajomulco+de+zuniga-jalisco-45640-1153835
+ Bugambilias,18500000,750,4 ,3.5  , 4.0  ,http://www.casasyterrenos.com/detalle-casa/venta-bugambilias-zapopan-jalisco-1293519
+ Casa Blanca,820000,84,2 ,2.0  , 1.0  ,http://www.casasyterrenos.com/detalle-casa/venta-casa+blanca-tlajomulco+de+zuniga-jalisco-45640-1633997
+ Los Gavilanes,3980000,159,3 ,3.5  , 3.0  ,http://www.casasyterrenos.com/detalle-casa/venta-los+gavilanes-tlajomulco+de+zuniga-jalisco-45640-2072966
+ Haciend Real,550000,70,3 ,3.0  , 1.0  ,http://www.casasyterrenos.com/detalle-casa/venta-haciend+real-tonala-jalisco-2239181
+ Casa Fuerte,3980000,231,3 ,4.5  , 4.0  ,http://www.casasyterrenos.com/detalle-casa/venta-casa+fuerte-tlajomulco+de+zuniga-jalisco-45645-1603790
+ Senderos De Monte Verde,2800000,160,3 ,2.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-senderos+de+monte+verde-tlajomulco+de+zuniga-jalisco-45640-1714470
+ Nueva Galicia,2350000,115,3 ,2.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-nueva+galicia-tlajomulco+de+zuniga-jalisco-45640-1779108
+ Bosques De Santa Anita,3650000,220,4 ,5.0  , 3.0  ,http://www.casasyterrenos.com/detalle-casa/venta-bosques+de+santa+anita-tlajomulco+de+zuniga-jalisco-45640-1861198
+ Casa Fuerte,2350000,143,3 ,3.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-casa+fuerte-tlajomulco+de+zuniga-jalisco-45645-2005675
+ Provenza Residencial,8000000,376,3 ,4.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-provenza+residencial-tlajomulco+de+zuniga-jalisco-45650-2015986
+ Casa Fuerte,2350000,142,3 ,3.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-casa+fuerte-tlajomulco+de+zuniga-jalisco-45645-2135400
+ Casa Fuerte,2300000,140,3 ,3.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-casa+fuerte-tlajomulco+de+zuniga-jalisco-45645-2139544
+ Casa Fuerte,2300000,140,3 ,3.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-casa+fuerte-tlajomulco+de+zuniga-jalisco-45645-2139579
+ Residencial Jardines Del Eden,590000,67,2 ,2.0  , 1.0  ,http://www.casasyterrenos.com/detalle-casa/venta-residencial+jardines+del+eden-tlajomulco+de+zuniga-jalisco-45640-2239062
+ La Palmira,2600000,240,4 ,3.0  ,0,http://www.casasyterrenos.com/detalle-casa/venta-la+palmira-zapopan-jalisco-1943066
+ San Miguel Cuyutlan,5200000,3000,3 ,5.0  , 5.0  ,http://www.casasyterrenos.com/detalle-casa/venta-san+miguel+cuyutlan-tlajomulco+de+zuniga-jalisco-45660-2054213
+ Real Del Sol,540000,100,2 ,1.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-real+del+sol-tlajomulco+de+zuniga-jalisco-45684-1732309
+ Valle Del Sur,1650000,86,2 ,2.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-valle+del+sur-tlaquepaque-jalisco-45601-1925696
+ Real Del Valle,1160000,93,3 ,3.0  , 1.0  ,http://www.casasyterrenos.com/detalle-casa/venta-real+del+valle-tlajomulco+de+zuniga-jalisco-45640-2100952
+ Del Pilar Residencial,2800000,166,3 ,4.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-del+pilar+residencial-tlajomulco+de+zuniga-jalisco-45640-2128302
+ San Agustin,2800000,151,3 ,3.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-san+agustin-tlajomulco+de+zuniga-jalisco-45640-2188725
+ Parques De Santa Maria,2100000,96,3 ,2.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-parques+de+santa+maria-tlaquepaque-jalisco-45601-2192890
+ Villa Fontana,495000,64,2 ,3.0  , 1.0  ,http://www.casasyterrenos.com/detalle-casa/venta-villa+fontana-tlaquepaque-jalisco-45615-1705414
+ Balcones De La Calera,4499000,1600,3 ,2.0  ,0,http://www.casasyterrenos.com/detalle-casa/venta-balcones+de+la+calera-tlajomulco+de+zuniga-jalisco-45640-1770963
+ Real Del Valle,575000,66,2 ,1.5  , 1.0  ,http://www.casasyterrenos.com/detalle-casa/venta-real+del+valle-tlajomulco+de+zuniga-jalisco-45640-1899833
+ Nueva Galicia,2699000,171,3 ,2.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-nueva+galicia-tlajomulco+de+zuniga-jalisco-45640-1900193
+ Hacienda Santa Fe,549000,140,2 ,1.0  , 1.0  ,http://www.casasyterrenos.com/detalle-casa/venta-hacienda+santa+fe-tlajomulco+de+zuniga-jalisco-45640-2016637
+ Villa Fontana,520000,64,2 ,3.0  , 1.0  ,http://www.casasyterrenos.com/detalle-casa/venta-villa+fontana-tlaquepaque-jalisco-45615-2062928
+ Bosques De Santa Anita,4200000,325,3 ,2.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-bosques+de+santa+anita-tlajomulco+de+zuniga-jalisco-45640-1027381
+ Parques De Santa Cruz Del Valle,560000,81,2 ,1.0  , 1.0  ,http://www.casasyterrenos.com/detalle-casa/venta-parques+de+santa+cruz+del+valle-tlaquepaque-jalisco-1947761
+ Punto Sur,3680000,120,3 ,3.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-punto+sur-tlajomulco+de+zuniga-jalisco-45645-1875043
+ Punto Sur,4290000,140,3 ,3.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-punto+sur-tlajomulco+de+zuniga-jalisco-20715-1965177
+ Bugambilias,4400000,480,3 ,3.0  , 10.0  ,http://www.casasyterrenos.com/detalle-casa/venta-bugambilias-zapopan-jalisco-1305076
+ El Origen,2850000,138,4 ,3.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-el+origen-tlajomulco+de+zuniga-jalisco-20715-2134686
+ Villa California,1150000,120,3 ,2.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-villa+california-tlajomulco+de+zuniga-jalisco-45645-1641871
+ Senderos De Monte Verde,1890000,120,3 ,2.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-senderos+de+monte+verde-tlajomulco+de+zuniga-jalisco-45640-2238880
+ Valle Del Sur,2050000,127,3 ,2.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-valle+del+sur-tlaquepaque-jalisco-45601-2121764
+ La Azucena,310000,90,1 ,1.0  , 1.0  ,http://www.casasyterrenos.com/detalle-casa/venta-la+azucena-el+salto-jalisco-45680-2081877
+ Del Pilar Residencial,2950000,174,4 ,3.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-del+pilar+residencial-tlajomulco+de+zuniga-jalisco-45640-1971653
+ Valle De Las Flores,670000,74,3 ,1.5  , 1.0  ,http://www.casasyterrenos.com/detalle-casa/venta-valle+de+las+flores-tlajomulco+de+zuniga-jalisco-45680-1979510
+ Alta California Residencial,1600000,109,3 ,1.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-alta+california+residencial-tlajomulco+de+zuniga-jalisco-45645-2126020
+ Punto Sur,4750000,140,3 ,2.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-punto+sur-tlajomulco+de+zuniga-jalisco-45645-2109990
+ Valle De Las Heras,695000,85,2 ,1.0  , 1.0  ,http://www.casasyterrenos.com/detalle-casa/venta-valle+de+las+heras-tlaquepaque-jalisco-45610-2228016
+ Fraccionamiento Villalta,640000,72,3 ,1.5  , 1.0  ,http://www.casasyterrenos.com/detalle-casa/venta-fraccionamiento+villalta-tlajomulco+de+zuniga-jalisco-45653-2047899
+ Casa Fuerte,2530000,140,3 ,2.5  ,0,http://www.casasyterrenos.com/detalle-casa/venta-casa+fuerte-tlajomulco+de+zuniga-jalisco-45645-1993421
+ La Rioja,5500000,296,4 ,5.0  ,0,http://www.casasyterrenos.com/detalle-casa/venta-la+rioja-tlajomulco+de+zuniga-jalisco-45640-1993469
+ La Rioja,4200000,240,3 ,4.5  ,0,http://www.casasyterrenos.com/detalle-casa/venta-la+rioja-tlajomulco+de+zuniga-jalisco-45640-1993497
+ La Rioja,4750000,260,3 ,4.0  , 3.0  ,http://www.casasyterrenos.com/detalle-casa/venta-la+rioja-tlajomulco+de+zuniga-jalisco-45640-1993505
+ Bugambilias,6280000,490,4 ,5.0  , 4.0  ,http://www.casasyterrenos.com/detalle-casa/venta-bugambilias-zapopan-jalisco-1993345
+ Fraccionamiento La Rioja,3700000,166,3 ,2.5  ,0,http://www.casasyterrenos.com/detalle-casa/venta-fraccionamiento+la+rioja-tlajomulco+de+zuniga-jalisco-2146761
+ La Rioja,5800000,260,4 ,6.0  , 3.0  ,http://www.casasyterrenos.com/detalle-casa/venta-la+rioja-tlajomulco+de+zuniga-jalisco-45640-2170112
+ El Palomar,7800000,776,5 ,6.5  , 4.0  ,http://www.casasyterrenos.com/detalle-casa/venta-el+palomar-tlajomulco+de+zuniga-jalisco-45640-2234015
+ Santa Anita,2990000,250,3 ,3.0  , 1.0  ,http://www.casasyterrenos.com/detalle-casa/venta-santa+anita-tlajomulco+de+zuniga-jalisco-45640-2238047
+ Nueva Galicia,1250000,80,2 ,1.5  , 1.0  ,http://www.casasyterrenos.com/detalle-casa/venta-nueva+galicia-tlajomulco+de+zuniga-jalisco-45640-2238005
+ La Rioja,4695000,253,4 ,4.0  , 3.0  ,http://www.casasyterrenos.com/detalle-casa/venta-la+rioja-tlajomulco+de+zuniga-jalisco-45640-2004233
+ Toluquilla,13250000,4171,1 ,1.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-toluquilla-tlaquepaque-jalisco-45610-2032968
+ Santa Cruz Del Valle,1180000,102,3 ,2.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-santa+cruz+del+valle-tlajomulco+de+zuniga-jalisco-45640-1545675
+ San Jose Del Tajo,5800000,246,3 ,4.0  , 3.0  ,http://www.casasyterrenos.com/detalle-casa/venta-san+jose+del+tajo-tlajomulco+de+zuniga-jalisco-45645-2238250
+ Santa Anita,1950000,90,3 ,2.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-santa+anita-tlajomulco+de+zuniga-jalisco-45640-2238243
+ Casa Fuerte,2230000,140,3 ,2.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-casa+fuerte-tlajomulco+de+zuniga-jalisco-45645-1739129
+ Casa Fuerte,2100000,140,3 ,2.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-casa+fuerte-tlajomulco+de+zuniga-jalisco-45645-2132355
+ Casa Fuerte,2020000,140,3 ,2.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-casa+fuerte-tlajomulco+de+zuniga-jalisco-45645-2132432
+ Casa Fuerte,1950000,140,3 ,2.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-casa+fuerte-tlajomulco+de+zuniga-jalisco-45645-2132495
+ Camichines Alborada 1ra. Sección,5657076,208,4 ,3.5  , 4.0  ,http://www.casasyterrenos.com/detalle-casa/venta-camichines+alborada+1ra+seccion-tlaquepaque-jalisco-2238201
+ Lago Nogal,7500000,350,3 ,3.0  , 6.0  ,http://www.casasyterrenos.com/detalle-casa/venta-lago+nogal-tlajomulco+de+zuniga-jalisco-45640-2238180
+ Casa Fuerte,3950000,402,3 ,3.5  , 3.0  ,http://www.casasyterrenos.com/detalle-casa/venta-casa+fuerte-tlajomulco+de+zuniga-jalisco-45645-1771163
+ Bosques De Santa Anita,1290000,137,3 ,2.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-bosques+de+santa+anita-tlajomulco+de+zuniga-jalisco-45640-2020424
+ Bosques Cedros,2790000,144,4 ,3.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-bosques+cedros-tlajomulco+de+zuniga-jalisco-2027732
+ Los Encinos,780000,90,3 ,1.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-los+encinos-tlajomulco+de+zuniga-jalisco-45653-2073540
+ Hacienda Real,1760000,113,3 ,2.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-hacienda+real-tlajomulco+de+zuniga-jalisco-45640-2076487
+ Sendero De Las Moras,1995000,153,3 ,3.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-sendero+de+las+moras-tlajomulco+de+zuniga-jalisco-45640-2169518
+ Casa Fuerte,2150000,140,3 ,3.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-casa+fuerte-tlajomulco+de+zuniga-jalisco-45645-2025681
+ Nueva Galicia Residencial,3300000,198,4 ,3.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-nueva+galicia+residencial-tlajomulco+de+zuniga-jalisco-45645-2237991
+ El Paraiso,670000,116,3 ,2.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-el+paraiso-tlajomulco+de+zuniga-jalisco-45640-2107288
+ Villas De La Hacienda,750000,90,3 ,2.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-villas+de+la+hacienda-tlajomulco+de+zuniga-jalisco-45684-2230613
+ El Origen,2290000,102,3 ,3.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-el+origen-tlajomulco+de+zuniga-jalisco-45645-1500011
+ El Origen,2290000,102,3 ,3.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-el+origen-tlajomulco+de+zuniga-jalisco-45645-1500016
+ El Origen,2530000,125,3 ,2.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-el+origen-tlajomulco+de+zuniga-jalisco-45645-1745399
+ Casa Fuerte,2290000,144,3 ,2.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-casa+fuerte-tlajomulco+de+zuniga-jalisco-45645-1873093
+ El Origen,1950000,108,3 ,2.5  , 7.0  ,http://www.casasyterrenos.com/detalle-casa/venta-el+origen-tlajomulco+de+zuniga-jalisco-45645-1884263
+ Casa Fuerte,2945000,170,3 ,2.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-casa+fuerte-tlajomulco+de+zuniga-jalisco-45645-1943691
+ Casa Fuerte,2795000,141,3 ,2.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-casa+fuerte-tlajomulco+de+zuniga-jalisco-45645-1943716
+ Casa Fuerte,2810000,148,3 ,2.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-casa+fuerte-tlajomulco+de+zuniga-jalisco-45645-1943761
+ Casa Fuerte,2750000,146,3 ,2.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-casa+fuerte-tlajomulco+de+zuniga-jalisco-45645-1943741
+ Casa Fuerte,3200000,190,3 ,2.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-casa+fuerte-tlajomulco+de+zuniga-jalisco-45645-1943776
+ Cajititlan,6850000,1200,6 ,7.0  , 3.0  ,http://www.casasyterrenos.com/detalle-casa/venta-cajititlan-tlajomulco+de+zuniga-jalisco-45670-2007740
+ Casa Fuerte,2490000,200,4 ,3.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-casa+fuerte-tlajomulco+de+zuniga-jalisco-45645-1974361
+ Bugambilias,4600000,403,3 ,4.0  , 3.0  ,http://www.casasyterrenos.com/detalle-casa/venta-bugambilias-zapopan-jalisco-2236395
+ El Campanario,960000,64,2 ,1.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-el+campanario-zapopan-jalisco-45609-2225671
+ Casa Fuerte,2450000,170,2 ,2.5  , 3.0  ,http://www.casasyterrenos.com/detalle-casa/venta-casa+fuerte-tlajomulco+de+zuniga-jalisco-45645-1721690
+ Parques Del Bosque,1850000,80,3 ,2.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-parques+del+bosque-tlaquepaque-jalisco-45609-2237599
+ Sendero De Las Moras,2580000,150,4 ,3.0  , 3.0  ,http://www.casasyterrenos.com/detalle-casa/venta-sendero+de+las+moras-tlajomulco+de+zuniga-jalisco-45640-2237564
+ Valle Dorado,600000,58,3 ,2.0  , 1.0  ,http://www.casasyterrenos.com/detalle-casa/venta-valle+dorado-tlajomulco+de+zuniga-jalisco-45640-2237578
+ Casa Fuerte,2750000,205,3 ,3.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-casa+fuerte-tlajomulco+de+zuniga-jalisco-45645-1641470
+ Casa Fuerte,2750000,190,3 ,3.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-casa+fuerte-tlajomulco+de+zuniga-jalisco-45645-1641490
+ Casa Fuerte,2750000,205,3 ,3.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-casa+fuerte-tlajomulco+de+zuniga-jalisco-45645-1641498
+ Casa Fuerte,3450000,215,3 ,4.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-casa+fuerte-tlajomulco+de+zuniga-jalisco-45645-2067492
+ El Palomar,11200000,1107,3 ,5.5  , 8.0  ,http://www.casasyterrenos.com/detalle-casa/venta-el+palomar-tlajomulco+de+zuniga-jalisco-45640-1898768
+ Altus Bosques,840000,93,3 ,2.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-altus+bosques-tlajomulco+de+zuniga-jalisco-45654-2100553
+ El Origen,2250000,115,3 ,3.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-el+origen-tlajomulco+de+zuniga-jalisco-45645-1950451
+ Del Pilar Residencial,3780000,170,4 ,5.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-del+pilar+residencial-tlajomulco+de+zuniga-jalisco-45640-2071902
+ Punto Sur,3650000,133,4 ,3.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-punto+sur-tlajomulco+de+zuniga-jalisco-45645-2109703
+ Punto Sur,3550000,133,4 ,3.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-punto+sur-tlajomulco+de+zuniga-jalisco-45645-2109927
+ Parques Del Castillo,504000,80,2 ,1.0  , 1.0  ,http://www.casasyterrenos.com/detalle-casa/venta-parques+del+castillo-el+salto-jalisco-45685-1643830
+ Lomas De Santa Anita,2500000,580,3 ,3.0  , 6.0  ,http://www.casasyterrenos.com/detalle-casa/venta-lomas+de+santa+anita-tlajomulco+de+zuniga-jalisco-45640-1860778
+ La Mora Residencial,810000,103,2 ,1.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-la+mora+residencial-tlajomulco+de+zuniga-jalisco-45650-2078006
+ El Origen,2290000,102,3 ,2.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-el+origen-tlajomulco+de+zuniga-jalisco-45645-1312771
+ El Palomar,4850000,362,3 ,3.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-el+palomar-tlajomulco+de+zuniga-jalisco-45640-2229220
+ El Origen,2280000,105,4 ,3.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-el+origen-tlajomulco+de+zuniga-jalisco-45645-1990662
+ Nueva Galicia,2129150,105,3 ,3.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-nueva+galicia-tlajomulco+de+zuniga-jalisco-45640-2025926
+ Los Puestos,940000,110,3 ,1.0  ,0,http://www.casasyterrenos.com/detalle-casa/venta-los+puestos-tlaquepaque-jalisco-45630-2234085
+ Santa Maria Tequepexpan,1698000,78,3 ,2.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-santa+maria+tequepexpan-tlaquepaque-jalisco-45601-2216235
+ Vicente Guerrero,3100000,244,4 ,2.0  , 4.0  ,http://www.casasyterrenos.com/detalle-casa/venta-vicente+guerrero-zapopan-jalisco-45160-1762204
+ Banus,1300000,244,3 ,2.0  , 3.0  ,http://www.casasyterrenos.com/detalle-casa/venta-banus-tlajomulco+de+zuniga-jalisco-45640-1768323
+ San Sebastian El Grande,1425000,186,3 ,2.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-san+sebastian+el+grande-tlajomulco+de+zuniga-jalisco-45640-78285
+ Privanza Camino Real,1860000,140,3 ,2.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-privanza+camino+real-tlajomulco+de+zuniga-jalisco-45640-1984993
+ Villa California,2100000,162,3 ,2.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-villa+california-tlajomulco+de+zuniga-jalisco-45640-1820208
+ Santa Cruz Del Valle,925000,134,2 ,2.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-santa+cruz+del+valle-tlajomulco+de+zuniga-jalisco-45640-1820228
+ La Rioja,6000000,284,4 ,4.5  , 3.0  ,http://www.casasyterrenos.com/detalle-casa/venta-la+rioja-tlajomulco+de+zuniga-jalisco-45640-1956605
+ La Rioja,5700000,253,4 ,4.0  , 3.0  ,http://www.casasyterrenos.com/detalle-casa/venta-la+rioja-tlajomulco+de+zuniga-jalisco-45640-1977661
+ Geo Villas Los Olivos I,1250000,156,3 ,2.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-geo+villas+los+olivos+i-tlaquepaque-jalisco-45610-2233994
+ Bugambilias,16800000,750,5 ,6.5  , 4.0  ,http://www.casasyterrenos.com/detalle-casa/venta-bugambilias-zapopan-jalisco-2233966
+ Parques De Santa Maria,870000,80,3 ,1.0  , 1.0  ,http://www.casasyterrenos.com/detalle-casa/venta-parques+de+santa+maria-tlaquepaque-jalisco-45601-2048235
+ Parques Del Bosque,1850000,80,2 ,2.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-parques+del+bosque-tlaquepaque-jalisco-45610-2233098
+ Bugambilias 2a Sección,6250000,480,3 ,5.0  , 4.0  ,http://www.casasyterrenos.com/detalle-casa/venta-bugambilias+2a+seccion-zapopan-jalisco-20715-2232727
+ Real Del Valle,585000,60,3 ,2.0  , 1.0  ,http://www.casasyterrenos.com/detalle-casa/venta-real+del+valle-tlajomulco+de+zuniga-jalisco-45640-2232615
+ Rinconada Santa Anita,6470000,500,3 ,3.5  , 5.0  ,http://www.casasyterrenos.com/detalle-casa/venta-rinconada+santa+anita-tlajomulco+de+zuniga-jalisco-45640-2231957
+ San Jose Del Castillo,421000,90,2 ,1.5  , 1.0  ,http://www.casasyterrenos.com/detalle-casa/venta-san+jose+del+castillo-el+salto-jalisco-45685-1969933
+ Villas De La Hacienda,750000,90,4 ,2.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-villas+de+la+hacienda-tlajomulco+de+zuniga-jalisco-45684-1519233
+ San Jose Del Castillo,299000,90,2 ,1.0  , 1.0  ,http://www.casasyterrenos.com/detalle-casa/venta-san+jose+del+castillo-el+salto-jalisco-45685-1969945
+ San Pablo,650000,90,2 ,1.0  , 1.0  ,http://www.casasyterrenos.com/detalle-casa/venta-residencial+san+pablo-tlajomulco+de+zuniga-jalisco-20710-2032751
+ El Palomar,9250000,928,3 ,5.5  , 5.0  ,http://www.casasyterrenos.com/detalle-casa/venta-el+palomar-tlajomulco+de+zuniga-jalisco-45640-2230032
+ Del Pilar Residencial,3800000,160,3 ,3.0  , 3.0  ,http://www.casasyterrenos.com/detalle-casa/venta-del+pilar+residencial-tlajomulco+de+zuniga-jalisco-45640-2196397
+ Casa Fuerte,2250000,147,3 ,2.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-casa+fuerte-tlajomulco+de+zuniga-jalisco-45645-1989453
+ Valle De Las Flores,1750000,191,3 ,2.0  , 6.0  ,http://www.casasyterrenos.com/detalle-casa/venta-valle+de+las+flores-tlajomulco+de+zuniga-jalisco-45680-2225839
+ Los Gavilanes,5200000,250,3 ,0.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-los+gavilanes-tlajomulco+de+zuniga-jalisco-45640-2147769
+ Casa Fuerte,2790000,140,3 ,3.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-casa+fuerte-tlajomulco+de+zuniga-jalisco-45645-1919681
+ Bugambilias,5300000,338,4 ,5.0  , 5.0  ,http://www.casasyterrenos.com/detalle-casa/venta-bugambilias-zapopan-jalisco-2226056
+ Santa Isabel,3250000,600,4 ,2.5  , 3.0  ,http://www.casasyterrenos.com/detalle-casa/venta-santa+isabel-tlajomulco+de+zuniga-jalisco-45640-2225727
+ San Agustin,2918700,140,3 ,2.0  ,0,http://www.casasyterrenos.com/detalle-casa/venta-san+agustin-tlajomulco+de+zuniga-jalisco-45640-2202004
+ San Agustin,3005180,140,3 ,3.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-san+agustin-tlajomulco+de+zuniga-jalisco-45640-2201990
+ San Agustin,3005180,140,3 ,3.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-san+agustin-tlajomulco+de+zuniga-jalisco-45640-2201997
+ San Agustin,3068160,140,3 ,4.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-san+agustin-tlajomulco+de+zuniga-jalisco-45640-2201983
+ Banus,1250000,159,3 ,2.5  , 3.0  ,http://www.casasyterrenos.com/detalle-casa/venta-banus-tlajomulco+de+zuniga-jalisco-45640-1859718
+ La Rioja,7750000,356,4 ,4.5  , 5.0  ,http://www.casasyterrenos.com/detalle-casa/venta-la+rioja-tlajomulco+de+zuniga-jalisco-45640-1950536
+ San Agustin,2876400,140,3 ,4.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-san+agustin-tlajomulco+de+zuniga-jalisco-45640-2201976
+ San Agustin,2782400,140,2 ,3.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-san+agustin-tlajomulco+de+zuniga-jalisco-45640-2201969
+ La Alameda,450000,53,2 ,2.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-la+alameda-el+salto-jalisco-45694-2157625
+ Provenza Residencial,6950000,286,4 ,4.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-provenza+residencial-tlajomulco+de+zuniga-jalisco-45650-2101869
+ San Agustin,1975000,107,3 ,2.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-san+agustin-tlajomulco+de+zuniga-jalisco-45640-2229955
+ La Tijera,2350000,166,3 ,2.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-la+tijera-tlajomulco+de+zuniga-jalisco-45620-1898513
+ Loreto,1190000,72,2 ,1.5  , 1.0  ,http://www.casasyterrenos.com/detalle-casa/venta-loreto-tlaquepaque-jalisco-45603-1900143
+ La Rioja,5380000,253,4 ,4.5  , 3.0  ,http://www.casasyterrenos.com/detalle-casa/venta-la+rioja-tlajomulco+de+zuniga-jalisco-45640-2125369
+ San Agustin,2028000,107,3 ,2.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-san+agustin-tlajomulco+de+zuniga-jalisco-45640-2229906
+ San Agustin,2295000,107,3 ,3.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-san+agustin-tlajomulco+de+zuniga-jalisco-45640-2229892
+ San Agustin,2248000,107,3 ,3.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-san+agustin-tlajomulco+de+zuniga-jalisco-45640-2229878
+ Los Gavilanes,11400000,3000,10 ,4.5  , 15.0  ,http://www.casasyterrenos.com/detalle-casa/venta-los+gavilanes-tlajomulco+de+zuniga-jalisco-45640-2047542
+ Bugambilias,11200000,795,4 ,4.0  , 4.0  ,http://www.casasyterrenos.com/detalle-casa/venta-bugambilias-zapopan-jalisco-1894213
+ El Alcázar (casa Fuerte),2300000,140,4 ,2.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-el+alcazar+%28casa+fuerte%29-tlajomulco+de+zuniga-jalisco-1720062
+ El Alcázar (casa Fuerte),2300000,140,4 ,2.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-el+alcazar+%28casa+fuerte%29-tlajomulco+de+zuniga-jalisco-1760909
+ Punto Sur,3850000,170,4 ,3.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-punto+sur-tlajomulco+de+zuniga-jalisco-45645-1463036
+ Punto Sur,3195000,143,4 ,3.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-punto+sur-tlajomulco+de+zuniga-jalisco-45645-1467401
+ Punto Sur,3450000,158,4 ,2.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-punto+sur-tlajomulco+de+zuniga-jalisco-45645-1463026
+ Punto Sur,3195000,143,4 ,3.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-punto+sur-tlajomulco+de+zuniga-jalisco-45645-1473316
+ Punto Sur,3450000,158,4 ,4.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-punto+sur-tlajomulco+de+zuniga-jalisco-45645-1980231
+ Punto Sur,3725000,170,4 ,4.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-punto+sur-tlajomulco+de+zuniga-jalisco-45645-1980266
+ Provenza Residencial,4450000,260,4 ,5.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-provenza+residencial-tlajomulco+de+zuniga-jalisco-45650-2133993
+ La Rioja,4990000,255,3 ,4.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-la+rioja-tlajomulco+de+zuniga-jalisco-45640-2176419
+ Bugambilias,3990000,390,2 ,3.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-bugambilias-zapopan-jalisco-1415491
+ Senderos De Monte Verde,1790000,120,3 ,2.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-senderos+de+monte+verde-tlajomulco+de+zuniga-jalisco-45640-1936771
+ El Palomar,11200000,1107,3 ,3.5  , 4.0  ,http://www.casasyterrenos.com/detalle-casa/venta-el+palomar-tlajomulco+de+zuniga-jalisco-45640-1526998
+ Ciudad Bugambilias,5000000,480,4 ,5.5  , 6.0  ,http://www.casasyterrenos.com/detalle-casa/venta-ciudad+bugambilias-zapopan-jalisco-45237-1927701
+ Bugambilias,4250000,300,3 ,2.5  , 4.0  ,http://www.casasyterrenos.com/detalle-casa/venta-bugambilias-zapopan-jalisco-1304096
+ Punto Sur,3750000,149,3 ,3.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-punto+sur-tlajomulco+de+zuniga-jalisco-45645-1475476
+ Bugambilias,6700000,470,3 ,4.5  , 5.0  ,http://www.casasyterrenos.com/detalle-casa/venta-bugambilias-zapopan-jalisco-1775043
+ Casa Fuerte,2550000,140,3 ,3.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-casa+fuerte-tlajomulco+de+zuniga-jalisco-45645-1927696
+ Villa California,2700000,140,3 ,2.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-villa+california-tlajomulco+de+zuniga-jalisco-45640-1936761
+ Santa Cruz De Las Flores,7500000,6125,3 ,4.0  , 3.0  ,http://www.casasyterrenos.com/detalle-casa/venta-santa+cruz+de+las+flores-tlajomulco+de+zuniga-jalisco-45645-1916536
+ Casa Fuerte,4000000,225,3 ,4.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-casa+fuerte-tlajomulco+de+zuniga-jalisco-45645-1918566
+ Casa Fuerte,3480000,195,3 ,3.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-casa+fuerte-tlajomulco+de+zuniga-jalisco-45645-1918736
+ Casa Fuerte,2590000,140,3 ,3.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-casa+fuerte-tlajomulco+de+zuniga-jalisco-45645-1918751
+ Casa Fuerte,3850000,274,3 ,4.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-casa+fuerte-tlajomulco+de+zuniga-jalisco-45645-1918791
+ Casa Fuerte,4200000,250,3 ,3.5  , 4.0  ,http://www.casasyterrenos.com/detalle-casa/venta-casa+fuerte-tlajomulco+de+zuniga-jalisco-45645-1918816
+ Bosques De Santa Anita,3450000,220,3 ,2.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-bosques+de+santa+anita-tlajomulco+de+zuniga-jalisco-45640-1919441
+ Santa Anita,1200000,93,3 ,2.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-santa+anita-tlaquepaque-jalisco-45600-1919451
+ Casa Fuerte,2300000,142,3 ,2.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-casa+fuerte-tlajomulco+de+zuniga-jalisco-45645-1915251
+ Casa Fuerte,2350000,140,3 ,2.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-casa+fuerte-tlajomulco+de+zuniga-jalisco-45645-1915311
+ Casa Fuerte,2350000,151,3 ,3.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-casa+fuerte-tlajomulco+de+zuniga-jalisco-45645-1915411
+ Punto Sur,3650000,149,3 ,2.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-punto+sur-tlajomulco+de+zuniga-jalisco-45645-1915461
+ El Palomar,5650000,300,4 ,5.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-el+palomar-tlajomulco+de+zuniga-jalisco-45640-1915516
+ El Manantial,6850000,280,4 ,4.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-el+manantial-tlajomulco+de+zuniga-jalisco-45640-1915541
+ Villa California,2080000,140,3 ,1.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-villa+california-tlajomulco+de+zuniga-jalisco-45640-2229374
+ La Rioja,4750000,294,4 ,4.0  , 4.0  ,http://www.casasyterrenos.com/detalle-casa/venta-la+rioja-tlajomulco+de+zuniga-jalisco-45640-1909671
+ Santa Anita,1250000,90,2 ,2.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-santa+anita-tlajomulco+de+zuniga-jalisco-45640-2005955
+ El Palomar,5900000,583,3 ,4.0  , 3.0  ,http://www.casasyterrenos.com/detalle-casa/venta-el+palomar-tlajomulco+de+zuniga-jalisco-45640-1526283
+ Real Del Valle,690000,81,2 ,1.0  , 1.0  ,http://www.casasyterrenos.com/detalle-casa/venta-real+del+valle-tlajomulco+de+zuniga-jalisco-45640-2229192
+ Villa California,1950000,148,3 ,1.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-villa+california-tlajomulco+de+zuniga-jalisco-45640-2177602
+ Bosques De Santa Anita,4450000,250,4 ,5.0  , 4.0  ,http://www.casasyterrenos.com/detalle-casa/venta-bosques+de+santa+anita-tlajomulco+de+zuniga-jalisco-45640-2225377
+ La Tijera,3900000,292,3 ,2.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-la+tijera-tlajomulco+de+zuniga-jalisco-45620-2228954
+ Palomar Country Club,10890000,660,3 ,4.0  , 3.0  ,http://www.casasyterrenos.com/detalle-casa/venta-palomar+country+club-tlajomulco+de+zuniga-jalisco-45640-1790998
+ Hacienda De Los Eucaliptos,410000,90,2 ,1.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-hacienda+de+los+eucaliptos-tlajomulco+de+zuniga-jalisco-45640-2170896
+ Punto Sur,3100000,135,3 ,3.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-punto+sur-tlajomulco+de+zuniga-jalisco-45645-2110753
+ Valle Del Sur,1800000,86,3 ,2.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-valle+del+sur-tlaquepaque-jalisco-45601-2027753
+ El Palomar,9400000,680,3 ,3.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-el+palomar-tlajomulco+de+zuniga-jalisco-45640-1825503
+ Bosques Cedros,2965000,144,4 ,3.5  , 3.0  ,http://www.casasyterrenos.com/detalle-casa/venta-bosques+cedros-tlajomulco+de+zuniga-jalisco-1263544
+ Bugambilias,7450000,740,3 ,5.5  , 3.0  ,http://www.casasyterrenos.com/detalle-casa/venta-bugambilias-zapopan-jalisco-1811388
+ Provenza Residencial,5190000,285,3 ,3.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-provenza+residencial-tlajomulco+de+zuniga-jalisco-45650-2146341
+ Tres Pinos,1750000,140,3 ,2.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-tres+pinos-tlaquepaque-jalisco-45615-2227638
+ Hacienda Casa Fuerte,2199000,138,3 ,2.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-hacienda+casa+fuerte-tlajomulco+de+zuniga-jalisco-45640-2227645
+ Sendero De Las Moras,3000000,171,3 ,4.0  , 3.0  ,http://www.casasyterrenos.com/detalle-casa/venta-sendero+de+las+moras-tlajomulco+de+zuniga-jalisco-45640-1902883
+ La Tijera,890000,66,3 ,1.5  , 1.0  ,http://www.casasyterrenos.com/detalle-casa/venta-la+tijera-tlajomulco+de+zuniga-jalisco-45620-2036468
+ La Tijera,680000,66,2 ,1.5  , 1.0  ,http://www.casasyterrenos.com/detalle-casa/venta-la+tijera-tlajomulco+de+zuniga-jalisco-45620-2036622
+ La Tijera,1980000,111,3 ,2.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-la+tijera-tlajomulco+de+zuniga-jalisco-45620-1024818
+ Real Del Valle,1100000,99,3 ,2.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-real+del+valle-tlajomulco+de+zuniga-jalisco-45640-1982723
+ El Palomar,11900000,1285,3 ,6.0  , 8.0  ,http://www.casasyterrenos.com/detalle-casa/venta-el+palomar-tlajomulco+de+zuniga-jalisco-45640-2228513
+ Parques Del Palmar,980000,80,3 ,3.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-parques+del+palmar-tlaquepaque-jalisco-45615-1481201
+ Casa Fuerte,3450000,300,4 ,4.0  , 3.0  ,http://www.casasyterrenos.com/detalle-casa/venta-casa+fuerte-tlajomulco+de+zuniga-jalisco-45645-2228415
+ Casa Fuerte Residencial,2890000,140,3 ,2.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-casa+fuerte+residencial-tlajomulco+de+zuniga-jalisco-20710-2094652
+ Casa Fuerte Residencial,2850000,140,3 ,2.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-casa+fuerte+residencial-tlajomulco+de+zuniga-jalisco-20710-2075675
+ Casa Fuerte Residencial,2890000,140,3 ,2.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-casa+fuerte+residencial-tlajomulco+de+zuniga-jalisco-20710-2094715
+ El Palomar,9200000,526,4 ,4.5  , 3.0  ,http://www.casasyterrenos.com/detalle-casa/venta-el+palomar-tlajomulco+de+zuniga-jalisco-45640-418682
+ Bugambilias,3600000,200,3 ,2.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-bugambilias-zapopan-jalisco-2228366
+ Punto Sur,3700000,144,4 ,4.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-punto+sur-tlajomulco+de+zuniga-jalisco-20715-2032254
+ Casa Fuerte El Alcazar,2680000,140,4 ,2.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-casa+fuerte+el+alcazar-tlajomulco+de+zuniga-jalisco-20710-2177231
+ Villa Fontana,890000,96,3 ,2.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-villa+fontana-tlaquepaque-jalisco-45615-2228198
+ La Rioja,7750000,355,4 ,4.0  , 5.0  ,http://www.casasyterrenos.com/detalle-casa/venta-la+rioja-tlajomulco+de+zuniga-jalisco-45640-2227967
+ Parques De Santa Maria,1300000,80,3 ,3.0  , 1.0  ,http://www.casasyterrenos.com/detalle-casa/venta-parques+de+santa+maria-tlaquepaque-jalisco-45601-2147118
+ Casa Fuerte,3350000,280,3 ,3.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-casa+fuerte-tlajomulco+de+zuniga-jalisco-45645-2227778
+ Sin Nombre,600000,71,3 ,1.5  , 1.0  ,http://www.casasyterrenos.com/detalle-casa/venta-sin+nombre-tlajomulco+de+zuniga-jalisco-45640-2227680
+ Santa Anita Country,9470000,750,3 ,3.5  , 6.0  ,http://www.casasyterrenos.com/detalle-casa/venta-santa+anita+country-tlajomulco+de+zuniga-jalisco-45645-1502221
+ Bosques De Santa Anita,2700000,220,3 ,2.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-bosques+de+santa+anita-tlajomulco+de+zuniga-jalisco-45640-1694330
+ Bosques De Santa Anita,13500000,1087,3 ,3.5  , 6.0  ,http://www.casasyterrenos.com/detalle-casa/venta-bosques+de+santa+anita-tlajomulco+de+zuniga-jalisco-45640-2046870
+ Hacienda Mirage,4500000,384,4 ,2.5  , 4.0  ,http://www.casasyterrenos.com/detalle-casa/venta-hacienda+mirage-tlajomulco+de+zuniga-jalisco-45646-1428031
+ Hacienda Mirage,4500000,384,3 ,2.5  , 4.0  ,http://www.casasyterrenos.com/detalle-casa/venta-hacienda+mirage-tlajomulco+de+zuniga-jalisco-45646-1910061
+ El Manantial,4500000,384,4 ,2.5  , 4.0  ,http://www.casasyterrenos.com/detalle-casa/venta-el+manantial-tlajomulco+de+zuniga-jalisco-45640-1976821
+ Toluquilla,1750000,103,4 ,2.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-toluquilla-tlaquepaque-jalisco-2223620
+ Arroyo Seco,1290000,99,4 ,2.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-fraccionamiento+geovillas+los+olivos-tlaquepaque-jalisco-20713-2075794
+ Sendero De Las Moras,2890000,166,3 ,2.5  , 3.0  ,http://www.casasyterrenos.com/detalle-casa/venta-sendero+de+las+moras-tlajomulco+de+zuniga-jalisco-45640-1894493
+ Punto Sur,3500000,133,3 ,3.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-punto+sur-tlajomulco+de+zuniga-jalisco-45645-1915176
+ Hacienda Casa Fuerte,3450000,205,4 ,3.0  , 3.0  ,http://www.casasyterrenos.com/detalle-casa/venta-hacienda+casa+fuerte-tlajomulco+de+zuniga-jalisco-45640-1915266
+ Real Del Valle,1350000,96,3 ,3.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-real+del+valle-tlajomulco+de+zuniga-jalisco-45640-1915306
+ Nuevo Tlajomulco,930000,90,3 ,2.5  , 5.0  ,http://www.casasyterrenos.com/detalle-casa/venta-nuevo+tlajomulco-tlajomulco+de+zuniga-jalisco-45640-1915451
+ Tulipanes,1890000,98,3 ,3.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-tulipanes-tlajomulco+de+zuniga-jalisco-45620-1915506
+ La Purisima,599000,90,3 ,2.0  , 1.0  ,http://www.casasyterrenos.com/detalle-casa/venta-la+purisima-tlajomulco+de+zuniga-jalisco-45680-48139
+ Santa Fe,320000,90,2 ,1.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-santa+fe-tlajomulco+de+zuniga-jalisco-45640-1610527
+ La Alameda,481600,64,3 ,1.5  , 1.0  ,http://www.casasyterrenos.com/detalle-casa/venta-la+alameda-el+salto-jalisco-45694-2227610
+ El Pilar,3800000,165,4 ,4.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-el+pilar-tlajomulco+de+zuniga-jalisco-45600-1809178
+ El Pilar,3800000,157,4 ,4.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-el+pilar-tlajomulco+de+zuniga-jalisco-45600-1809303
+ El Pilar,3800000,167,4 ,4.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-el+pilar-tlajomulco+de+zuniga-jalisco-45600-1809203
+ Villa Fontana,680000,75,3 ,1.5  , 1.0  ,http://www.casasyterrenos.com/detalle-casa/venta-villa+fontana-tlaquepaque-jalisco-45615-1657066
+ Hacienda Los Fresnos Ii,465000,62,2 ,1.0  , 1.0  ,http://www.casasyterrenos.com/detalle-casa/venta-hacienda+los+fresnos+ii-tlajomulco+de+zuniga-jalisco-45640-1760864
+ Bugambilias,6500000,494,5 ,5.5  , 4.0  ,http://www.casasyterrenos.com/detalle-casa/venta-bugambilias-zapopan-jalisco-2219861
+ Bosques De Santa Anita,3950000,280,5 ,3.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-bosques+de+santa+anita-tlajomulco+de+zuniga-jalisco-45640-2219868
+ Casa Fuerte,2080000,137,3 ,2.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-casa+fuerte-tlajomulco+de+zuniga-jalisco-45645-1305886
+ Valle Dorado,600000,78,3 ,1.5  , 1.0  ,http://www.casasyterrenos.com/detalle-casa/venta-valle+dorado-tlajomulco+de+zuniga-jalisco-45640-2227211
+ Bonanza,1590000,127,3 ,2.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-bonanza-tlajomulco+de+zuniga-jalisco-45640-2043321
+ Nueva Galicia,2750000,119,3 ,3.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-nueva+galicia-tlajomulco+de+zuniga-jalisco-45640-2165192
+ La Providencia,310000,90,2 ,1.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-la+providencia-tlajomulco+de+zuniga-jalisco-45640-1949756
+ Santa Fe,395000,80,2 ,1.0  , 1.0  ,http://www.casasyterrenos.com/detalle-casa/venta-santa+fe-tlajomulco+de+zuniga-jalisco-45640-2131025
+ Fraccionamiento Senderos Monte Verde,2350000,173,3 ,3.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-fraccionamiento+senderos+monte+verde-tlajomulco+de+zuniga-jalisco-2226168
+ Casa Fuerte,2350000,210,3 ,3.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-casa+fuerte-tlajomulco+de+zuniga-jalisco-45645-1894638
+ Paseo De Los Agaves,650000,112,2 ,1.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-paseo+de+los+agaves-tlajomulco+de+zuniga-jalisco-45640-2076396
+ Casa Fuerte,2330000,150,3 ,2.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-casa+fuerte-tlajomulco+de+zuniga-jalisco-45645-1783318
+ El Origen,2190000,105,4 ,3.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-el+origen-tlajomulco+de+zuniga-jalisco-45645-1840538
+ Los Olivos De Tlaquepaque,750000,78,2 ,1.5  , 1.0  ,http://www.casasyterrenos.com/detalle-casa/venta-los+olivos+de+tlaquepaque-tlaquepaque-jalisco-1998220
+ El Capulin,580000,54,2 ,2.0  , 1.0  ,http://www.casasyterrenos.com/detalle-casa/venta-el+capulin-tlajomulco+de+zuniga-jalisco-45640-2225881
+ Parques Del Bosque,1770000,80,4 ,3.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-parques+del+bosque-tlaquepaque-jalisco-45610-2225734
+ Fraccionamiento Casa Fuerte,2790000,140,3 ,3.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-fraccionamiento+casa+fuerte-tlajomulco+de+zuniga-jalisco-2225559
+ Bugambilias,10800000,1668,4 ,4.0  , 6.0  ,http://www.casasyterrenos.com/detalle-casa/venta-bugambilias-zapopan-jalisco-2223389
+ Real Del Valle,680000,67,3 ,2.0  , 1.0  ,http://www.casasyterrenos.com/detalle-casa/venta-real+del+valle-tlajomulco+de+zuniga-jalisco-45640-2225398
+ Bugambilias,5690000,313,3 ,3.5  , 3.0  ,http://www.casasyterrenos.com/detalle-casa/venta-bugambilias-zapopan-jalisco-2042355
+ Villa California,2300000,156,3 ,1.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-villa+california-tlajomulco+de+zuniga-jalisco-45645-2224873
+ La Tijera,2350000,112,3 ,2.5  , 3.0  ,http://www.casasyterrenos.com/detalle-casa/venta-la+tijera-tlajomulco+de+zuniga-jalisco-45620-1966769
+ Sin Nombre,6500000,3755,6 ,8.0  , 20.0  ,http://www.casasyterrenos.com/detalle-casa/venta-sin+nombre-tlajomulco+de+zuniga-jalisco-45640-1826588
+ Vista Hermosa,910000,90,3 ,2.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-vista+hermosa-tlaquepaque-jalisco-45618-1861078
+ Geo Villas Los Olivos I,1200000,80,2 ,3.5  , 1.0  ,http://www.casasyterrenos.com/detalle-casa/venta-geo+villas+los+olivos+i-tlaquepaque-jalisco-45610-2001706
+ Senderos De Monte Verde,1599000,119,3 ,2.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-senderos+de+monte+verde-tlajomulco+de+zuniga-jalisco-45640-2063740
+ Haciend Real,1090000,99,3 ,2.5  ,0,http://www.casasyterrenos.com/detalle-casa/venta-haciend+real-tonala-jalisco-2224747
+ San Sebastian El Grande,398000,90,2 ,1.0  ,0,http://www.casasyterrenos.com/detalle-casa/venta-san+sebastian+el+grande-tlajomulco+de+zuniga-jalisco-45640-2224712
+ Nueva Galicia,3600000,180,3 ,2.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-nueva+galicia-tlajomulco+de+zuniga-jalisco-45640-2035845
+ La Calera,4550000,6016,4 ,2.5  , 10.0  ,http://www.casasyterrenos.com/detalle-casa/venta-la+calera-tlajomulco+de+zuniga-jalisco-45640-141713
+ Club De Golf Santa Anita,13500000,1033,3 ,4.0  ,0,http://www.casasyterrenos.com/detalle-casa/venta-club+de+golf+santa+anita-tlajomulco+de+zuniga-jalisco-45640-1509088
+ Club De Golf Santa Anita,12000000,1080,3 ,3.5  , 3.0  ,http://www.casasyterrenos.com/detalle-casa/venta-club+de+golf+santa+anita-tlajomulco+de+zuniga-jalisco-45640-1894893
+ El Origen,1600000,102,3 ,2.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-el+origen-tlajomulco+de+zuniga-jalisco-45645-1499236
+ La Loma Residencial,1790000,120,3 ,2.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-la+loma+residencial-tlajomulco+de+zuniga-jalisco-46640-1637822
+ Casa Fuerte,2890000,160,3 ,3.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-casa+fuerte-tlajomulco+de+zuniga-jalisco-45645-1982765
+ Nueva Galicia Residencial,2550000,160,3 ,3.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-nueva+galicia+residencial-tlajomulco+de+zuniga-jalisco-45645-943898
+ Villa California,1590000,140,3 ,2.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-villa+california-tlajomulco+de+zuniga-jalisco-45640-1204311
+ Punto Sur,5100000,190,4 ,3.5  , 4.0  ,http://www.casasyterrenos.com/detalle-casa/venta-punto+sur-tlajomulco+de+zuniga-jalisco-45645-2141994
+ Santa Anita Camino Real,4500000,244,4 ,4.5  , 4.0  ,http://www.casasyterrenos.com/detalle-casa/venta-santa+anita+camino+real-tlaquepaque-jalisco-45640-1979937
+ La Romana,4400000,270,3 ,3.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-la+romana-tlajomulco+de+zuniga-jalisco-45640-1529603
+ El Manantial,7500000,320,4 ,4.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-el+manantial-tlajomulco+de+zuniga-jalisco-45640-1979902
+ Hacienda Santa Fe,297000,60,1 ,1.0  , 1.0  ,http://www.casasyterrenos.com/detalle-casa/venta-hacienda+santa+fe-tlajomulco+de+zuniga-jalisco-45640-1977741
+ El Manantial,7300000,277,4 ,4.5  , 4.0  ,http://www.casasyterrenos.com/detalle-casa/venta-el+manantial-tlajomulco+de+zuniga-jalisco-45640-2224005
+ Banus,640000,124,3 ,1.5  , 1.0  ,http://www.casasyterrenos.com/detalle-casa/venta-banus-tlajomulco+de+zuniga-jalisco-45640-2223823
+ Nueva Galicia,2780000,119,3 ,3.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-nueva+galicia-tlajomulco+de+zuniga-jalisco-45640-2223529
+ San Sebastian El Grande,3450000,396,2 ,3.5  , 6.0  ,http://www.casasyterrenos.com/detalle-casa/venta-san+sebastian+el+grande-tlajomulco+de+zuniga-jalisco-45640-2223508
+ Santa Anita,1200000,200,2 ,1.0  ,0,http://www.casasyterrenos.com/detalle-casa/venta-santa+anita-tlajomulco+de+zuniga-jalisco-45640-1719126
+ Club De Golf Santa Anita,21000000,1617,5 ,6.5  , 6.0  ,http://www.casasyterrenos.com/detalle-casa/venta-club+de+golf+santa+anita-tlajomulco+de+zuniga-jalisco-45640-1735304
+ Parques De Santa Cruz Del Valle,1500000,147,4 ,3.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-parques+de+santa+cruz+del+valle-tlaquepaque-jalisco-2223361
+ Bosques De Santa Anita,2145000,102,3 ,2.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-bosques+de+santa+anita-tlajomulco+de+zuniga-jalisco-45640-2223417
+ Bonanza,1780000,175,3 ,2.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-bonanza-tlajomulco+de+zuniga-jalisco-45640-2011093
+ Villas De San Martin,1150000,68,2 ,2.0  , 1.0  ,http://www.casasyterrenos.com/detalle-casa/venta-villas+de+san+martin-tlajomulco+de+zuniga-jalisco-45640-2157541
+ Villas De San Martin,1250000,72,3 ,2.0  , 1.0  ,http://www.casasyterrenos.com/detalle-casa/venta-villas+de+san+martin-tlajomulco+de+zuniga-jalisco-45640-2158360
+ Villas De San Martin,1950000,90,4 ,3.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-villas+de+san+martin-tlajomulco+de+zuniga-jalisco-45640-2160544
+ Villas De San Martin,1550000,90,3 ,2.0  , 1.0  ,http://www.casasyterrenos.com/detalle-casa/venta-villas+de+san+martin-tlajomulco+de+zuniga-jalisco-45640-2164212
+ Villas De San Martin,1250000,68,3 ,3.0  , 1.0  ,http://www.casasyterrenos.com/detalle-casa/venta-villas+de+san+martin-tlajomulco+de+zuniga-jalisco-45640-2164898
+ San Agustin,3800000,160,4 ,4.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-san+agustin-tlajomulco+de+zuniga-jalisco-45640-1983430
+ Real Del Valle,1160000,93,3 ,3.0  ,0,http://www.casasyterrenos.com/detalle-casa/venta-real+del+valle-tlajomulco+de+zuniga-jalisco-45640-1991201
+ Sin Nombre,479000,80,2 ,2.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-sin+nombre-tlaquepaque-jalisco-45080-1671274
+ Villa Fontana,589000,80,2 ,2.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-villa+fontana-tlaquepaque-jalisco-45615-1709430
+ Fraccionamiento Senderos Monte Verde,3500000,150,3 ,3.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-fraccionamiento+senderos+monte+verde-tlajomulco+de+zuniga-jalisco-2223130
+ Fraccionamiento Senderos Monte Verde,2250000,142,3 ,2.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-fraccionamiento+senderos+monte+verde-tlajomulco+de+zuniga-jalisco-2223123
+ Fraccionamiento Senderos Monte Verde,2490000,142,3 ,2.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-fraccionamiento+senderos+monte+verde-tlajomulco+de+zuniga-jalisco-2223102
+ Bugambilias,4150000,355,3 ,2.5  , 3.0  ,http://www.casasyterrenos.com/detalle-casa/venta-bugambilias-zapopan-jalisco-2150660
+ Bugambilias,3490000,349,4 ,2.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-bugambilias-zapopan-jalisco-2213498
+ El Palomar,12500000,1052,5 ,4.0  , 4.0  ,http://www.casasyterrenos.com/detalle-casa/venta-el+palomar-tlajomulco+de+zuniga-jalisco-45640-2221254
+ Santa Anita,9000000,10680,1 ,0.5  ,0,http://www.casasyterrenos.com/detalle-casa/venta-santa+anita-tlajomulco+de+zuniga-jalisco-45640-2222934
+ Banus,1120000,129,3 ,3.5  , 5.0  ,http://www.casasyterrenos.com/detalle-casa/venta-banus-tlajomulco+de+zuniga-jalisco-45640-1403984
+ La Rioja,6200000,280,4 ,4.5  , 4.0  ,http://www.casasyterrenos.com/detalle-casa/venta-la+rioja-tlajomulco+de+zuniga-jalisco-45640-1994356
+ Santa Anita,88985000,68450,1 ,0.5  ,0,http://www.casasyterrenos.com/detalle-casa/venta-santa+anita-tlajomulco+de+zuniga-jalisco-45640-2222843
+ Haciend Real,550000,70,3 ,3.0  , 1.0  ,http://www.casasyterrenos.com/detalle-casa/venta-haciend+real-tonala-jalisco-2222822
+ Villa California,2550000,110,3 ,2.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-villa+california-tlajomulco+de+zuniga-jalisco-45640-2221415
+ Casa Fuerte,2125000,145,3 ,3.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-casa+fuerte-tlajomulco+de+zuniga-jalisco-45645-1835038
+ Las Palmas,400000,68,2 ,1.0  , 1.0  ,http://www.casasyterrenos.com/detalle-casa/venta-las+palmas-tonala-jalisco-45429-2215360
+ Quintanova,748000,90,2 ,1.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-quintanova-tlaquepaque-jalisco-45600-1941196
+ Los Olivos De Tlaquepaque,1800000,120,3 ,2.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-los+olivos+de+tlaquepaque-tlaquepaque-jalisco-1712658
+ Bugambilias,5890000,350,5 ,6.0  , 4.0  ,http://www.casasyterrenos.com/detalle-casa/venta-bugambilias-zapopan-jalisco-2219840
+ Lomas De San Agustin,645000,77,2 ,1.0  , 1.0  ,http://www.casasyterrenos.com/detalle-casa/venta-lomas+de+san+agustin-tlajomulco+de+zuniga-jalisco-45640-2219749
+ Casa Fuerte,3350000,147,3 ,3.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-casa+fuerte-tlajomulco+de+zuniga-jalisco-45645-2219602
+ Santa Anita,8900000,600,3 ,3.5  , 6.0  ,http://www.casasyterrenos.com/detalle-casa/venta-santa+anita-tlajomulco+de+zuniga-jalisco-45640-1918616
+ Lomas Del Sur,300000,69,2 ,1.0  , 1.0  ,http://www.casasyterrenos.com/detalle-casa/venta-lomas+del+sur-tlajomulco+de+zuniga-jalisco-45640-1144258
+ Nueva Galicia,3550000,160,4 ,4.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-nueva+galicia-tlajomulco+de+zuniga-jalisco-45640-2194059
+ Nueva Galicia,3550000,160,4 ,4.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-nueva+galicia-tlajomulco+de+zuniga-jalisco-45640-2194073
+ Las Terrazas,1469000,99,3 ,2.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-las+terrazas-tlaquepaque-jalisco-45610-1276569
+ Las Terrazas,1325000,99,3 ,2.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-las+terrazas-tlaquepaque-jalisco-45610-1276559
+ Las Terrazas,1207000,83,3 ,2.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-las+terrazas-tlaquepaque-jalisco-45610-1276554
+ Las Terrazas,1050000,74,3 ,2.0  , 1.0  ,http://www.casasyterrenos.com/detalle-casa/venta-las+terrazas-tlaquepaque-jalisco-45610-1276534
+ Las Terrazas,1050000,74,2 ,2.0  , 1.0  ,http://www.casasyterrenos.com/detalle-casa/venta-las+terrazas-tlaquepaque-jalisco-45610-1276544
+ Las Terrazas,870000,69,2 ,1.5  , 1.0  ,http://www.casasyterrenos.com/detalle-casa/venta-las+terrazas-tlaquepaque-jalisco-45610-1276524
+ Las Terrazas,760000,66,2 ,1.5  , 1.0  ,http://www.casasyterrenos.com/detalle-casa/venta-las+terrazas-tlaquepaque-jalisco-45610-1276514
+ El Vergel,800000,99,2 ,1.5  , 1.0  ,http://www.casasyterrenos.com/detalle-casa/venta-el+vergel-tlaquepaque-jalisco-45595-2106749
+ Villa California,2890000,157,3 ,2.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-villa+california-tlajomulco+de+zuniga-jalisco-45645-2219329
+ Nueva Galicia,2500000,116,3 ,2.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-nueva+galicia-tlajomulco+de+zuniga-jalisco-45640-2219203
+ Fraccionamiento La Rioja,4450000,266,3 ,4.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-fraccionamiento+la+rioja-tlajomulco+de+zuniga-jalisco-2161468
+ Club De Golf Santa Anita,16800000,940,4 ,5.0  , 6.0  ,http://www.casasyterrenos.com/detalle-casa/venta-club+de+golf+santa+anita-tlajomulco+de+zuniga-jalisco-45640-1311526
+ Club De Golf Atlas,7200000,2400,3 ,3.5  , 15.0  ,http://www.casasyterrenos.com/detalle-casa/venta-club+de+golf+atlas-el+salto-jalisco-45623-1543615
+ El Origen,2100000,155,3 ,2.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-el+origen-tlajomulco+de+zuniga-jalisco-45645-1652978
+ San Agustin,1850000,102,3 ,2.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-san+agustin-tlajomulco+de+zuniga-jalisco-45640-1696670
+ San Agustin,2250000,104,3 ,2.5  , 3.0  ,http://www.casasyterrenos.com/detalle-casa/venta-san+agustin-tlajomulco+de+zuniga-jalisco-45640-1696758
+ El Palomar,4850000,568,4 ,3.0  , 4.0  ,http://www.casasyterrenos.com/detalle-casa/venta-el+palomar-tlajomulco+de+zuniga-jalisco-45640-1724614
+ Bosques De Santa Anita,6200000,600,4 ,4.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-bosques+de+santa+anita-tlajomulco+de+zuniga-jalisco-45640-1864748
+ Haciendas Tonala,1300000,110,3 ,2.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-haciendas+tonala-tonala-jalisco-45429-1893253
+ Rinconada Santa Anita,4300000,480,3 ,3.0  , 4.0  ,http://www.casasyterrenos.com/detalle-casa/venta-rinconada+santa+anita-tlajomulco+de+zuniga-jalisco-45640-1927046
+ Camichin Santa Anita,3990000,302,3 ,3.0  , 4.0  ,http://www.casasyterrenos.com/detalle-casa/venta-camichin+santa+anita-tlajomulco+de+zuniga-jalisco-45600-1975953
+ La Rioja,3600000,180,3 ,3.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-la+rioja-tlajomulco+de+zuniga-jalisco-45640-1918046
+ La Rioja,3400000,180,3 ,3.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-la+rioja-tlajomulco+de+zuniga-jalisco-45640-1892673
+ Paseos Del Prado,975000,80,4 ,3.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-paseos+del+prado-tlaquepaque-jalisco-45610-1899423
+ Los Gavilanes,16500000,5400,3 ,4.5  ,0,http://www.casasyterrenos.com/detalle-casa/venta-los+gavilanes-tlajomulco+de+zuniga-jalisco-45640-1384699
+ Bugambilias,6985000,538,2 ,3.0  , 4.0  ,http://www.casasyterrenos.com/detalle-casa/venta-bugambilias-zapopan-jalisco-1899943
+ Haciend Real,950000,90,3 ,3.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-haciend+real-tonala-jalisco-2219049
+ Bugambilias,5000000,480,4 ,4.5  , 6.0  ,http://www.casasyterrenos.com/detalle-casa/venta-bugambilias-zapopan-jalisco-1905806
+ Real Del Valle,849000,90,3 ,2.0  , 1.0  ,http://www.casasyterrenos.com/detalle-casa/venta-real+del+valle-tlajomulco+de+zuniga-jalisco-45640-1975165
+ Parques De Santa Cruz Del Valle,810000,80,3 ,2.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-parques+de+santa+cruz+del+valle-tlaquepaque-jalisco-1946871
+ Provenza Residencial,5450000,251,3 ,3.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-provenza+residencial-tlajomulco+de+zuniga-jalisco-45650-2140167
+ Residencial Jardines Del Eden,590000,68,2 ,2.0  ,0,http://www.casasyterrenos.com/detalle-casa/venta-residencial+jardines+del+eden-tlajomulco+de+zuniga-jalisco-45640-2218916
+ Nuevo Tlajomulco,1669000,102,3 ,2.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-nuevo+tlajomulco-tlajomulco+de+zuniga-jalisco-45640-2216186
+ Punto Sur,3955000,150,3 ,4.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-punto+sur-tlajomulco+de+zuniga-jalisco-45645-2216487
+ Haciend Real,1090000,99,3 ,2.5  ,0,http://www.casasyterrenos.com/detalle-casa/venta-haciend+real-tonala-jalisco-2218874
+ Bosques De Santa Anita,2415000,119,3 ,2.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-bosques+de+santa+anita-tlajomulco+de+zuniga-jalisco-45640-1469426
+ Senderos De Monte Verde,1857125,133,3 ,2.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-senderos+de+monte+verde-tlajomulco+de+zuniga-jalisco-45640-2000684
+ Senderos De Monte Verde,2100000,120,3 ,2.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-senderos+de+monte+verde-tlajomulco+de+zuniga-jalisco-45640-1898533
+ San Agustin,2345000,120,3 ,3.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-san+agustin-tlajomulco+de+zuniga-jalisco-45640-1907141
+ San Agustin,2345000,120,3 ,3.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-san+agustin-tlajomulco+de+zuniga-jalisco-45640-1907096
+ El Palomar,7690000,800,4 ,5.5  , 4.0  ,http://www.casasyterrenos.com/detalle-casa/venta-el+palomar-tlajomulco+de+zuniga-jalisco-45640-1702342
+ Villa Fontana Aqua,270000,34,1 ,1.0  , 1.0  ,http://www.casasyterrenos.com/detalle-casa/venta-villa+fontana+aqua-tlajomulco+de+zuniga-jalisco-2029566
+ Nueva Galicia Residencial,2945000,128,3 ,3.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-nueva+galicia+residencial-tlajomulco+de+zuniga-jalisco-45645-2020501
+ Casa Fuerte,2900000,179,3 ,3.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-casa+fuerte-tlajomulco+de+zuniga-jalisco-45645-2035642
+ Cima Del Sol,330000,135,1 ,1.0  , 1.0  ,http://www.casasyterrenos.com/detalle-casa/venta-cima+del+sol-tlajomulco+de+zuniga-jalisco-45640-2032723
+ Lomas De Santa Anita,2000000,550,4 ,3.0  ,0,http://www.casasyterrenos.com/detalle-casa/venta-lomas+de+santa+anita-tlajomulco+de+zuniga-jalisco-45640-2010694
+ El Manantial,5780000,280,4 ,5.0  , 4.0  ,http://www.casasyterrenos.com/detalle-casa/venta-el+manantial-tlajomulco+de+zuniga-jalisco-45640-1931871
+ Bugambilias,4990000,351,4 ,4.0  , 4.0  ,http://www.casasyterrenos.com/detalle-casa/venta-bugambilias-zapopan-jalisco-2043097
+ San Miguel Cuyutlan,2710000,438,3 ,4.0  , 6.0  ,http://www.casasyterrenos.com/detalle-casa/venta-san+miguel+cuyutlan-tlajomulco+de+zuniga-jalisco-45660-2216389
+ Fraccionamiento Senderos Monte Verde,1700000,120,3 ,2.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-fraccionamiento+senderos+monte+verde-tlajomulco+de+zuniga-jalisco-2106616
+ Real Del Valle,650000,72,2 ,3.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-real+del+valle-tlajomulco+de+zuniga-jalisco-45640-1868023
+ Senderos De Monte Verde,1720000,140,3 ,3.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-senderos+de+monte+verde-tlajomulco+de+zuniga-jalisco-45640-1916961
+ Los Cajetes,2880000,885,2 ,2.0  , 12.0  ,http://www.casasyterrenos.com/detalle-casa/venta-los+cajetes-zapopan-jalisco-45609-2216228
+ La Rioja,4300000,254,3 ,3.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-la+rioja-tlajomulco+de+zuniga-jalisco-45640-2216032
+ Casa Fuerte,2340000,140,3 ,2.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-casa+fuerte-tlajomulco+de+zuniga-jalisco-45645-1882588
+ Las Pintas,6900000,2128,3 ,2.5  , 8.0  ,http://www.casasyterrenos.com/detalle-casa/venta-las+pintas-el+salto-jalisco-45693-1633697
+ Cortijo San Agustin,2959000,410,5 ,4.5  , 4.0  ,http://www.casasyterrenos.com/detalle-casa/venta-cortijo+san+agustin-tlajomulco+de+zuniga-jalisco-45640-1871778
+ Foresta Santa Anita,1700000,177,3 ,2.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-foresta+santa+anita-tlajomulco+de+zuniga-jalisco-45645-1285724
+ Villa Fontana,650000,96,2 ,1.0  , 1.0  ,http://www.casasyterrenos.com/detalle-casa/venta-villa+fontana-tlaquepaque-jalisco-45615-1761379
+ Bosques De Santa Anita,2550000,190,3 ,2.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-bosques+de+santa+anita-tlajomulco+de+zuniga-jalisco-45640-1966725
+ Del Pilar Residencial,3700000,180,4 ,3.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-del+pilar+residencial-tlajomulco+de+zuniga-jalisco-45640-2009287
+ Aurea Residencial,2578000,119,3 ,2.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-aurea+residencial-tlaquepaque-jalisco-45602-2215724
+ La Rioja,4850000,296,3 ,3.5  , 4.0  ,http://www.casasyterrenos.com/detalle-casa/venta-la+rioja-tlajomulco+de+zuniga-jalisco-45640-1292344
+ Lomas De Santa Anita,4990000,674,4 ,5.5  , 8.0  ,http://www.casasyterrenos.com/detalle-casa/venta-lomas+de+santa+anita-tlajomulco+de+zuniga-jalisco-45640-1628972
+ El Palomar,28000000,2000,3 ,3.5  , 10.0  ,http://www.casasyterrenos.com/detalle-casa/venta-el+palomar-tlajomulco+de+zuniga-jalisco-45640-1658494
+ Rinconada Santa Anita,4950000,487,3 ,3.5  ,0,http://www.casasyterrenos.com/detalle-casa/venta-rinconada+santa+anita-tlajomulco+de+zuniga-jalisco-45640-1658526
+ El Manantial,6500000,276,3 ,3.5  , 4.0  ,http://www.casasyterrenos.com/detalle-casa/venta-el+manantial-tlajomulco+de+zuniga-jalisco-45640-1314711
+ Villa California,2490000,158,3 ,2.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-villa+california-tlajomulco+de+zuniga-jalisco-45640-2032268
+ Casa Fuerte,3450000,250,4 ,3.0  , 3.0  ,http://www.casasyterrenos.com/detalle-casa/venta-casa+fuerte-tlajomulco+de+zuniga-jalisco-45645-2076823
+ Nueva Galicia Residencial,3150000,119,4 ,2.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-nueva+galicia+residencial-tlajomulco+de+zuniga-jalisco-45645-2082528
+ Punto Sur,3650000,130,4 ,2.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-punto+sur-tlajomulco+de+zuniga-jalisco-45645-2082535
+ Sendero De Las Moras,2580000,146,4 ,3.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-sendero+de+las+moras-tlajomulco+de+zuniga-jalisco-45640-1971245
+ Lomas De Tejeda,230000,78,2 ,1.0  , 1.0  ,http://www.casasyterrenos.com/detalle-casa/venta-lomas+de+tejeda-tlajomulco+de+zuniga-jalisco-45640-2215493
+ La Rioja,6000000,283,4 ,4.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-la+rioja-tlajomulco+de+zuniga-jalisco-45640-2215542
+ Valle Del Sur,2150000,192,3 ,2.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-valle+del+sur-tlaquepaque-jalisco-45601-1721422
+ Valle Del Sur,1680000,88,3 ,2.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-valle+del+sur-tlaquepaque-jalisco-45601-1861443
+ Nueva Galicia,2625000,119,3 ,2.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-nueva+galicia-tlajomulco+de+zuniga-jalisco-45640-2210586
+ Altea,2100000,102,3 ,3.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-altea-tlajomulco+de+zuniga-jalisco-45645-2212812
+ Nueva Galicia Residencial,3150000,119,3 ,2.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-nueva+galicia+residencial-tlajomulco+de+zuniga-jalisco-45645-1943251
+ Nueva Galicia,2780000,119,3 ,3.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-nueva+galicia-tlajomulco+de+zuniga-jalisco-45640-2215297
+ Hacienda De Los Eucaliptos,350000,75,2 ,1.0  , 1.0  ,http://www.casasyterrenos.com/detalle-casa/venta-hacienda+de+los+eucaliptos-tlajomulco+de+zuniga-jalisco-45640-1624492
+ Bugambilias,2900000,180,3 ,2.5  , 3.0  ,http://www.casasyterrenos.com/detalle-casa/venta-bugambilias-zapopan-jalisco-2170770
+ Bugambilias,4500000,270,5 ,5.5  , 5.0  ,http://www.casasyterrenos.com/detalle-casa/venta-bugambilias-zapopan-jalisco-2170763
+ Fraccionamiento El Origen,2150000,102,3 ,2.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-fraccionamiento+el+origen-tlajomulco+de+zuniga-jalisco-2043139
+ Hacienda Santa Fe,500000,90,2 ,1.0  , 1.0  ,http://www.casasyterrenos.com/detalle-casa/venta-hacienda+santa+fe-tlajomulco+de+zuniga-jalisco-45640-2215150
+ Nueva Galicia Residencial,2678500,119,3 ,2.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-nueva+galicia+residencial-tlajomulco+de+zuniga-jalisco-45645-2214961
+ Villa Fontana,620000,75,2 ,2.0  , 1.0  ,http://www.casasyterrenos.com/detalle-casa/venta-villa+fontana-tlaquepaque-jalisco-45615-2072462
+ Casa Fuerte,2480000,147,3 ,3.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-casa+fuerte-tlajomulco+de+zuniga-jalisco-45645-2214975
+ Cortijo San Agustin,2900000,133,4 ,3.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-cortijo+san+agustin-tlajomulco+de+zuniga-jalisco-45640-1532993
+ Jardines De Santa Anita,3100000,306,3 ,2.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-jardines+de+santa+anita-tlajomulco+de+zuniga-jalisco-45640-138869
+ Haciend Real,1090000,99,3 ,2.5  ,0,http://www.casasyterrenos.com/detalle-casa/venta-haciend+real-tonala-jalisco-2214898
+ Bosques Cedros,2965000,144,3 ,4.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-bosques+cedros-tlajomulco+de+zuniga-jalisco-1761659
+ Cortijo San Agustin,1775000,175,2 ,3.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-cortijo+san+agustin-tlajomulco+de+zuniga-jalisco-45640-2132124
+ Sendero De Las Moras,2100000,135,3 ,2.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-sendero+de+las+moras-tlajomulco+de+zuniga-jalisco-45640-1615712
+ Hacienda De Los Eucaliptos,525000,90,3 ,1.0  , 1.0  ,http://www.casasyterrenos.com/detalle-casa/venta-hacienda+de+los+eucaliptos-tlajomulco+de+zuniga-jalisco-45640-1825693
+ Lomas De Santa Anita,2350000,405,4 ,3.5  , 6.0  ,http://www.casasyterrenos.com/detalle-casa/venta-lomas+de+santa+anita-tlajomulco+de+zuniga-jalisco-45640-1134123
+ Los Cajetes,4800000,558,3 ,2.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-los+cajetes-zapopan-jalisco-45609-1903263
+ Cortijo San Agustin,1750000,182,3 ,2.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-cortijo+san+agustin-tlajomulco+de+zuniga-jalisco-45640-1864273
+ La Tijera,25900000,5565,3 ,3.5  , 10.0  ,http://www.casasyterrenos.com/detalle-casa/venta-la+tijera-tlajomulco+de+zuniga-jalisco-45620-1458666
+ Real Del Valle,550000,67,2 ,1.5  , 1.0  ,http://www.casasyterrenos.com/detalle-casa/venta-real+del+valle-tlajomulco+de+zuniga-jalisco-45640-1743694
+ Las Terrazas Residencial,975000,90,3 ,3.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-las+terrazas+residencial-tlaquepaque-jalisco-2213477
+ Vistas Del Valle Villas De San Sebastia,520000,90,2 ,1.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-vistas+del+valle+villas+de+san+sebastia-tlajomulco+de+zuniga-jalisco-45640-2214044
+ Hacienda Mirage,8500000,522,3 ,2.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-hacienda+mirage-tlajomulco+de+zuniga-jalisco-45646-2213659
+ Hacienda Del Oro,7350000,366,3 ,5.5  , 4.0  ,http://www.casasyterrenos.com/detalle-casa/venta-hacienda+del+oro-tlajomulco+de+zuniga-jalisco-45645-2146474
+ San Sebastian El Grande,490000,120,2 ,1.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-san+sebastian+el+grande-tlajomulco+de+zuniga-jalisco-45640-1929766
+ Senderos De Monte Verde,2290000,154,3 ,3.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-senderos+de+monte+verde-tlajomulco+de+zuniga-jalisco-45640-1645486
+ El Origen,1950000,107,3 ,2.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-el+origen-tlajomulco+de+zuniga-jalisco-45645-2212588
+ Bosque Real De Santa Anita,1950000,140,3 ,2.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta+y+renta-bosque+real+de+santa+anita-tlajomulco+de+zuniga-jalisco-2212504
+ Casa Fuerte,2350000,120,3 ,2.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-casa+fuerte-tlajomulco+de+zuniga-jalisco-45645-2212518
+ Bosques De Santa Anita,5500000,235,4 ,3.5  , 3.0  ,http://www.casasyterrenos.com/detalle-casa/venta-bosques+de+santa+anita-tlajomulco+de+zuniga-jalisco-45640-2020319
+ Rinconada Santa Anita,13350000,830,4 ,5.0  , 4.0  ,http://www.casasyterrenos.com/detalle-casa/venta-rinconada+santa+anita-tlajomulco+de+zuniga-jalisco-45640-2020333
+ Bosques Cedros,4600000,253,3 ,5.0  , 3.0  ,http://www.casasyterrenos.com/detalle-casa/venta-bosques+cedros-tlajomulco+de+zuniga-jalisco-2024995
+ El Origen,2150000,103,3 ,2.5  ,0,http://www.casasyterrenos.com/detalle-casa/venta-el+origen-tlajomulco+de+zuniga-jalisco-45645-2032520
+ Bosque Real De Santa Anita,3165000,136,3 ,3.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-bosque+real+de+santa+anita-tlajomulco+de+zuniga-jalisco-45640-2193961
+ San Agustin Poniente,2600000,169,4 ,4.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-san+agustin+poniente-tlajomulco+de+zuniga-jalisco-1922936
+ Real Del Valle,500000,66,2 ,1.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-real+del+valle-tlajomulco+de+zuniga-jalisco-45640-2212252
+ Banus,680000,124,2 ,1.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-banus-tlajomulco+de+zuniga-jalisco-45640-2176671
+ San Antonio,490000,85,2 ,1.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-san+antonio-tlajomulco+de+zuniga-jalisco-45650-2020970
+ Hacienda Del Oro,5590000,350,3 ,3.5  , 4.0  ,http://www.casasyterrenos.com/detalle-casa/venta-hacienda+del+oro-tlajomulco+de+zuniga-jalisco-45645-1970921
+ El Sereno,1590000,167,4 ,2.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-el+sereno-tlaquepaque-jalisco-2141833
+ Santa Anita,1950000,102,3 ,2.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-santa+anita-tlajomulco+de+zuniga-jalisco-45640-1890588
+ San Sebastian El Grande,398000,90,2 ,1.0  ,0,http://www.casasyterrenos.com/detalle-casa/venta-san+sebastian+el+grande-tlajomulco+de+zuniga-jalisco-45640-2211195
+ Residencial Jardines Del Eden,590000,68,2 ,2.0  ,0,http://www.casasyterrenos.com/detalle-casa/venta-residencial+jardines+del+eden-tlajomulco+de+zuniga-jalisco-45640-2211209
+ Cortijo San Agustin,1862000,150,3 ,2.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-cortijo+san+agustin-tlajomulco+de+zuniga-jalisco-45640-1893888
+ Colinas Del Roble,730000,77,3 ,2.5  , 1.0  ,http://www.casasyterrenos.com/detalle-casa/venta-colinas+del+roble-tlajomulco+de+zuniga-jalisco-45655-1905956
+ Geovillas La Arbolada,430000,90,2 ,1.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-geovillas+la+arbolada-tlajomulco+de+zuniga-jalisco-45653-1998780
+ Haciendas De San Jose,800000,85,3 ,1.5  , 1.0  ,http://www.casasyterrenos.com/detalle-casa/venta-haciendas+de+san+jose-tlaquepaque-jalisco-45601-2042845
+ Haciendas De San Jose,800000,85,2 ,1.5  , 1.0  ,http://www.casasyterrenos.com/detalle-casa/venta-haciendas+de+san+jose-tlaquepaque-jalisco-45601-2042852
+ Villas De La Hacienda,385000,90,2 ,1.0  , 1.0  ,http://www.casasyterrenos.com/detalle-casa/venta-villas+de+la+hacienda-tlajomulco+de+zuniga-jalisco-45684-2201206
+ Bosque Real De Santa Anita,3165000,136,3 ,3.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-bosque+real+de+santa+anita-tlajomulco+de+zuniga-jalisco-45640-1502958
+ Casa Fuerte,2250000,147,3 ,2.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-casa+fuerte-tlajomulco+de+zuniga-jalisco-45645-2025457
+ Real Del Valle,540000,74,2 ,2.0  ,0,http://www.casasyterrenos.com/detalle-casa/venta-real+del+valle-tlajomulco+de+zuniga-jalisco-45640-1444611
+ Sin Nombre,661000,73,3 ,3.0  , 1.0  ,http://www.casasyterrenos.com/detalle-casa/venta-sin+nombre-tlajomulco+de+zuniga-jalisco-45640-1444721
+ Real Del Valle,635000,74,2 ,2.0  , 1.0  ,http://www.casasyterrenos.com/detalle-casa/venta-real+del+valle-tlajomulco+de+zuniga-jalisco-45640-1447881
+ Valle Dorado,520000,77,3 ,1.5  , 1.0  ,http://www.casasyterrenos.com/detalle-casa/venta-valle+dorado-tlajomulco+de+zuniga-jalisco-45640-1447906
+ San Agustin,470000,64,2 ,1.0  , 1.0  ,http://www.casasyterrenos.com/detalle-casa/venta-san+agustin-tlajomulco+de+zuniga-jalisco-45640-1448466
+ Paseo De Los Agaves,370000,87,2 ,1.0  , 1.0  ,http://www.casasyterrenos.com/detalle-casa/venta-paseo+de+los+agaves-tlajomulco+de+zuniga-jalisco-45640-1465341
+ Paseo De Los Agaves,394000,61,2 ,2.0  , 1.0  ,http://www.casasyterrenos.com/detalle-casa/venta-paseo+de+los+agaves-tlajomulco+de+zuniga-jalisco-45640-1465361
+ Paseo De Los Agaves,420000,66,2 ,1.5  , 1.0  ,http://www.casasyterrenos.com/detalle-casa/venta-paseo+de+los+agaves-tlajomulco+de+zuniga-jalisco-45640-1465376
+ Haciend Real,792000,99,3 ,2.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-haciend+real-tonala-jalisco-1740104
+ Parques Del Castillo,455000,80,2 ,1.0  , 1.0  ,http://www.casasyterrenos.com/detalle-casa/venta-parques+del+castillo-el+salto-jalisco-45685-1888548
+ Casa Fuerte,2350000,140,3 ,2.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-casa+fuerte-tlajomulco+de+zuniga-jalisco-45645-2121204
+ Colinas Del Roble,450000,10,3 ,2.0  , 1.0  ,http://www.casasyterrenos.com/detalle-casa/venta-colinas+del+roble-tlajomulco+de+zuniga-jalisco-45655-2210950
+ Los Olivos De Tlaquepaque,1250000,90,3 ,2.5  , 1.0  ,http://www.casasyterrenos.com/detalle-casa/venta-los+olivos+de+tlaquepaque-tlaquepaque-jalisco-2210915
+ Jauja,2500000,350,3 ,4.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-jauja-tonala-jalisco-2000495
+ Lopez Cotilla,1820000,198,5 ,1.0  ,0,http://www.casasyterrenos.com/detalle-casa/venta-lopez+cotilla-tlaquepaque-jalisco-45615-1614287
+ Adamar,2350000,133,3 ,3.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-adamar-tlajomulco+de+zuniga-jalisco-45640-2210467
+ Santa Maria Tequepexpan,1850000,90,3 ,2.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-santa+maria+tequepexpan-tlaquepaque-jalisco-45601-2204545
+ Punto Sur,4290000,146,4 ,4.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-punto+sur-tlajomulco+de+zuniga-jalisco-45645-2210425
+ Nueva Galicia,2690000,175,3 ,2.5  , 4.0  ,http://www.casasyterrenos.com/detalle-casa/venta-nueva+galicia-tlajomulco+de+zuniga-jalisco-45640-2205539
+ Casa Fuerte,2350000,200,3 ,3.0  , 3.0  ,http://www.casasyterrenos.com/detalle-casa/venta-casa+fuerte-tlajomulco+de+zuniga-jalisco-45645-2205406
+ Colinas Del Roble,450000,100,3 ,2.0  , 1.0  ,http://www.casasyterrenos.com/detalle-casa/venta-colinas+del+roble-tlajomulco+de+zuniga-jalisco-45655-2202060
+ Ciudad Bugambilias,4190000,300,4 ,4.0  , 3.0  ,http://www.casasyterrenos.com/detalle-casa/venta-ciudad+bugambilias-zapopan-jalisco-45237-2205315
+ Las Terrazas Residencial,1180000,99,3 ,2.5  ,0,http://www.casasyterrenos.com/detalle-casa/venta-las+terrazas+residencial-tlaquepaque-jalisco-2077208
+ Las Terrazas,1100000,100,3 ,2.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-las+terrazas-tlaquepaque-jalisco-45610-2105762
+ Altus Bosques,890000,72,3 ,3.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-altus+bosques-tlajomulco+de+zuniga-jalisco-45654-2166634
+ Valle De Las Flores,771874,70,3 ,2.0  , 1.0  ,http://www.casasyterrenos.com/detalle-casa/venta-valle+de+las+flores-tlajomulco+de+zuniga-jalisco-45680-1787013
+ Santa Cruz De Las Flores,660000,74,3 ,1.5  , 1.0  ,http://www.casasyterrenos.com/detalle-casa/venta-santa+cruz+de+las+flores-tlajomulco+de+zuniga-jalisco-45640-1785913
+ Valle De Las Flores,841390,74,3 ,3.0  , 1.0  ,http://www.casasyterrenos.com/detalle-casa/venta-valle+de+las+flores-tlajomulco+de+zuniga-jalisco-45680-1840563
+ Valle De Las Flores,694199,74,3 ,1.5  , 1.0  ,http://www.casasyterrenos.com/detalle-casa/venta-valle+de+las+flores-tlajomulco+de+zuniga-jalisco-45680-1840568
+ Valle De Las Flores,694199,74,3 ,1.5  , 1.0  ,http://www.casasyterrenos.com/detalle-casa/venta-valle+de+las+flores-tlajomulco+de+zuniga-jalisco-45680-1858068
+ Valle De Las Flores,771874,70,3 ,2.0  , 1.0  ,http://www.casasyterrenos.com/detalle-casa/venta-valle+de+las+flores-tlajomulco+de+zuniga-jalisco-45680-1864548
+ Valle De Las Flores,694199,74,3 ,1.5  , 1.0  ,http://www.casasyterrenos.com/detalle-casa/venta-valle+de+las+flores-tlajomulco+de+zuniga-jalisco-45680-1884188
+ Valle De Las Flores,841390,74,3 ,3.0  , 1.0  ,http://www.casasyterrenos.com/detalle-casa/venta-valle+de+las+flores-tlajomulco+de+zuniga-jalisco-45680-1884198
+ San Agustin,1530000,99,2 ,2.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-san+agustin-tlajomulco+de+zuniga-jalisco-45640-1903013
+ Valle De Las Flores,841390,74,3 ,3.0  , 1.0  ,http://www.casasyterrenos.com/detalle-casa/venta-valle+de+las+flores-tlajomulco+de+zuniga-jalisco-45680-1938451
+ Valle De Las Flores,694199,74,3 ,1.5  , 1.0  ,http://www.casasyterrenos.com/detalle-casa/venta-valle+de+las+flores-tlajomulco+de+zuniga-jalisco-45680-1938481
+ Valle De Las Flores,771874,70,3 ,2.0  ,0,http://www.casasyterrenos.com/detalle-casa/venta-valle+de+las+flores-tlajomulco+de+zuniga-jalisco-45680-1938491
+ Valle De Las Flores,771874,70,3 ,2.0  ,0,http://www.casasyterrenos.com/detalle-casa/venta-valle+de+las+flores-tlajomulco+de+zuniga-jalisco-45680-1952871
+ Santa Cruz De Las Flores,771874,70,3 ,2.0  , 1.0  ,http://www.casasyterrenos.com/detalle-casa/venta-santa+cruz+de+las+flores-tlajomulco+de+zuniga-jalisco-45645-2027599
+ San Agustin,1520000,96,3 ,2.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-san+agustin-tlajomulco+de+zuniga-jalisco-45640-2116073
+ Cortijo San Agustin,1702000,96,3 ,2.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-cortijo+san+agustin-tlajomulco+de+zuniga-jalisco-45640-2116080
+ Bugambilias,4700000,300,4 ,3.0  , 3.0  ,http://www.casasyterrenos.com/detalle-casa/venta-bugambilias-zapopan-jalisco-1965285
+ Bugambilias,4700000,300,4 ,3.0  , 3.0  ,http://www.casasyterrenos.com/detalle-casa/venta-bugambilias-zapopan-jalisco-1965289
+ Real Del Valle,680000,83,2 ,1.0  , 1.0  ,http://www.casasyterrenos.com/detalle-casa/venta-real+del+valle-tlajomulco+de+zuniga-jalisco-45640-1786983
+ San Martin Del Tajo,4500000,251,3 ,3.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-san+martin+del+tajo-tlajomulco+de+zuniga-jalisco-45640-1631167
+ Cajititlan,28000000,18000,3 ,3.0  , 1.0  ,http://www.casasyterrenos.com/detalle-casa/venta-cajititlan-tlajomulco+de+zuniga-jalisco-45670-2203138
+ Villa Fontana,585000,10,2 ,2.0  , 1.0  ,http://www.casasyterrenos.com/detalle-casa/venta-villa+fontana-tlaquepaque-jalisco-45615-1201266
+ El Cielo Country Club,6500000,387,3 ,3.5  , 4.0  ,http://www.casasyterrenos.com/detalle-casa/venta-el+cielo+country+club-tlajomulco+de+zuniga-jalisco-45640-2202893
+ El Palomar,6300000,494,3 ,4.0  , 4.0  ,http://www.casasyterrenos.com/detalle-casa/venta-el+palomar-tlajomulco+de+zuniga-jalisco-45640-2202816
+ Bosques De Santa Anita,5500000,235,3 ,3.5  , 3.0  ,http://www.casasyterrenos.com/detalle-casa/venta-bosques+de+santa+anita-tlajomulco+de+zuniga-jalisco-45640-1870193
+ Villas De San Martin,870000,72,2 ,2.0  , 1.0  ,http://www.casasyterrenos.com/detalle-casa/venta-villas+de+san+martin-tlajomulco+de+zuniga-jalisco-45640-1884613
+ Bosques Cedros,3000000,160,3 ,3.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-bosques+cedros-tlajomulco+de+zuniga-jalisco-1974833
+ El Cielo Country Club,7500000,446,2 ,2.5  , 4.0  ,http://www.casasyterrenos.com/detalle-casa/venta-el+cielo+country+club-tlajomulco+de+zuniga-jalisco-45640-1942986
+ Las Grullas Residencial,2100000,107,4 ,3.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-las+grullas+residencial-tlajomulco+de+zuniga-jalisco-45640-2202788
+ Nueva Galicia Residencial,2879000,168,3 ,2.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-nueva+galicia+residencial-tlajomulco+de+zuniga-jalisco-45645-2202494
+ Club De Golf Santa Anita,8900000,1079,3 ,4.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-club+de+golf+santa+anita-tlajomulco+de+zuniga-jalisco-45640-1602145
+ Geo Villas Los Olivos Ii,750000,73,2 ,1.5  , 1.0  ,http://www.casasyterrenos.com/detalle-casa/venta-los+olivos-tlaquepaque-jalisco-20710-2102016
+ Real Del Valle,650000,96,3 ,1.0  , 1.0  ,http://www.casasyterrenos.com/detalle-casa/venta-real+del+valle-tlajomulco+de+zuniga-jalisco-45640-2015860
+ Valle Dorado,550000,94,3 ,1.5  , 1.0  ,http://www.casasyterrenos.com/detalle-casa/venta-valle+dorado-tlajomulco+de+zuniga-jalisco-45640-2025373
+ Villas De San Martin,795000,75,2 ,2.0  ,0,http://www.casasyterrenos.com/detalle-casa/venta-villas+de+san+martin-tlajomulco+de+zuniga-jalisco-45640-2110634
+ Valle De Las Flores,2123000,257,3 ,2.0  , 3.0  ,http://www.casasyterrenos.com/detalle-casa/venta-valle+de+las+flores-tlajomulco+de+zuniga-jalisco-45680-2202151
+ Lomas De Santa Anita,4300000,657,4 ,5.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-lomas+de+santa+anita-tlajomulco+de+zuniga-jalisco-45640-1937646
+ Bugambilias,4200000,300,3 ,4.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-bugambilias-zapopan-jalisco-2015825
+ Bosques Cedros,2600000,144,3 ,2.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-bosques+cedros-tlajomulco+de+zuniga-jalisco-2169252
+ Los Olivos De Tlaquepaque,1050000,90,3 ,2.5  , 1.0  ,http://www.casasyterrenos.com/detalle-casa/venta-los+olivos+de+tlaquepaque-tlaquepaque-jalisco-2015867
+ La Guadalupana,3800000,240,4 ,5.0  , 4.0  ,http://www.casasyterrenos.com/detalle-casa/venta-la+guadalupana-tlaquepaque-jalisco-45595-947674
+ Casa Fuerte,2575000,140,4 ,3.0  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-casa+fuerte-tlajomulco+de+zuniga-jalisco-45645-2015895
+ Etapa 7,600000,60,2 ,1.5  , 1.0  ,http://www.casasyterrenos.com/detalle-casa/venta-etapa+7-tlajomulco+de+zuniga-jalisco-45640-2049257
+ Del Pilar Residencial,3400000,170,3 ,2.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-del+pilar+residencial-tlajomulco+de+zuniga-jalisco-45640-2035705
+ Villa California,2500000,153,3 ,2.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-villa+california-tlajomulco+de+zuniga-jalisco-45640-1760424
+ Arbolada Bosques De Santa Anita,3300000,186,3 ,2.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-arbolada+bosques+de+santa+anita-tlajomulco+de+zuniga-jalisco-45640-1767708
+ Bosques De Santa Anita,3400000,220,3 ,2.5  , 2.0  ,http://www.casasyterrenos.com/detalle-casa/venta-bosques+de+santa+anita-tlajomulco+de+zuniga-jalisco-45640-1899938
